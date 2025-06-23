@@ -1,0 +1,38 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit.
+
+A:
+**Title: The Quest of Princess Pea and Sir Braveheart**
+
+**Scenario Setup:**
+
+* **Characters:**
+  - **Princess Pea:** A brave and adventurous Barbie doll who is the princess of the kingdom.
+  - **Sir Braveheart:** A gallant knight Barbie doll tasked with protecting Princess Pea.
+  - **The Evil Sorcerer:** A mischievous Lego minifigure who has cast a spell on Princess Pea, turning her into a tiny, toy version of herself.
+  - **The Cubetto Robot:** A loyal steed that Sir Braveheart uses to navigate through the enchanted forest in search of the antidote.
+
+* **Setting:**
+  - **Enchanted Forest:** A vibrant, imaginary forest filled with magical trees, sparkling streams, and hidden paths.
+  - **The Castle:** The home of Princess Pea, located at the heart of the forest.
+  - **The Sorcerer's Lair:** A dark and mysterious cave where the antidote is hidden.
+
+**The Quest:**
+
+* **Objective:**
+  Sir Braveheart must use the Cubetto to navigate through the Enchanted Forest, find the antidote, and rescue Princess Pea from the spell cast by the Evil Sorcerer.
+
+* **Steps:**
+
+1. **The Spell:**
+   - The Evil Sorcerer has turned Princess Pea into a tiny toy version of herself, and she is trapped in a glass bottle on a high shelf in the Castle.
+
+2. **The Quest Begins:**
+   - Sir Braveheart sets out from the Castle with the Cubetto Robot.
+   - The first challenge is crossing a rickety bridge over a deep chasm. The Cubetto must be programmed to move carefully and avoid the gaps.
+
+3. **The Enchanted Forest:**
+   - Sir Braveheart and the Cubetto Robot encounter magical creatures along the way. They must solve puzzles to gain safe passage.
+   - For example, they meet a talking squirrel who needs help finding its acorn hoard. Solving this puzzle opens a secret path.
+
+4. **The Stream:**
+   - They come to a stream with

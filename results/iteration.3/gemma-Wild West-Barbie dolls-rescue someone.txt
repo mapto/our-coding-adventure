@@ -1,0 +1,47 @@
+bartowski/gemma-2-9b-it-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+## The Great Saloon Rescue!
+
+**Story:**
+
+Barbie and her friends are having a rootin' tootin' time at the Wild West saloon! Suddenly, a tumbleweed rolls in, carrying a note: "Help! Sheriff Barbie is trapped in the jailhouse!"  
+
+**Mission:**
+
+You are brave cowboys and cowgirls! Use Cubetto to rescue Sheriff Barbie from the jailhouse.
+
+**The Map:**
+
+Imagine the saloon as a square. 
+
+* **Start:** Cubetto begins at the saloon entrance.
+* **Jailhouse:**  A small square in the middle of the saloon.
+* **Sheriff Barbie:**  Inside the jailhouse.
+
+**The Commands:**
+
+You have three special commands to help Cubetto:
+
+* **Forward:**  Cubetto moves one step forward.
+* **Turn Left:** Cubetto turns 90 degrees to the left.
+* **Turn Right:** Cubetto turns 90 degrees to the right.
+
+**The Challenge:**
+
+Can you program Cubetto to:
+
+1. **Reach the jailhouse door.**
+2. **Open the jailhouse door (pretend!).**
+3. **Pick up Sheriff Barbie.**
+4. **Bring Sheriff Barbie back to the saloon entrance.**
+
+**Tips:**
+
+* Think carefully about the direction Cubetto needs to go.
+* Use the "Turn Left" and "Turn Right" commands to change Cubetto's direction.
+* Practice your program before you try to rescue Sheriff Barbie!
+
+**Have fun and save the day!**
+
+

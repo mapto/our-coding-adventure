@@ -1,0 +1,28 @@
+Meta-Llama-3.1-8B-Instruct-GGUF	Parameters: {'world': 'Wild West', 'objects': 'Barbie dolls', 'task': 'rescue someone'}
+
+-------------------
+**Wild West Rescue Mission**
+
+**Objective:** Help Barbie doll, "Lily the Sheriff," escape from the clutches of the notorious outlaw, "Black Jack." You'll use the Cubetto tangible programming toy to navigate through the Wild West terrain and rescue Lily.
+
+**Storyline:** Black Jack has kidnapped Lily, the Sheriff of the Wild West town. The townspeople are in a panic, and it's up to you to save the day. You'll need to use your Cubetto programming skills to navigate through the dusty trails, cacti, and rocky terrain to reach Lily.
+
+**Gameplay:**
+
+1. Start by placing the Cubetto in the starting position, near the town of Red Rock.
+2. Use the Cubetto command blocks to program a path to reach Lily. You'll need to use the following blocks:
+	* **Forward**: Move the Cubetto one step forward.
+	* **Turn Left**: Turn the Cubetto 90 degrees to the left.
+	* **Turn Right**: Turn the Cubetto 90 degrees to the right.
+3. Program a sequence of commands to navigate through the terrain. For example:
+	* Move forward 5 steps to reach the first cactus.
+	* Turn left to avoid the cactus and head towards the rocky terrain.
+	* Move forward 3 steps to reach the rocky outcropping.
+	* Turn right to head towards the canyon where Lily is being held captive.
+4. As you program your path, consider the obstacles and challenges you'll face. Will you need to turn left to avoid a rock or turn right to reach a hidden passageway?
+5. Once you've reached Lily, use the Cubetto to program a sequence of commands to rescue her. You might need to move forward to reach the entrance of the canyon, turn left to avoid Black Jack's henchmen, and then turn right to reach Lily's cell.
+6. When you've rescued Lily, return to the town of Red Rock and celebrate your victory.
+
+**Tips and Variations:**
+
+* To make the game more

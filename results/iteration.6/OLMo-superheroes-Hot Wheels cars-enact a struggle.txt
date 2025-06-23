@@ -1,0 +1,4 @@
+OLMo-2-1124-7B-Instruct-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+Introduce a superhero adventure with Cubetto! Use three command blocks: forward, turn left, and turn right. Children can program Cubetto to navigate a Hot Wheels track as a superhero saving the city. The story: Cubetto starts at the base, turns left to avoid obstacles, then moves forward to rescue citizens. Turn right to reach the villain's lair, where Cubetto must navigate carefully to save the day. This engaging scenario combines storytelling, problem-solving, and physical movement, making learning fun and interactive.

@@ -1,0 +1,4 @@
+OLMo-2-1124-7B-Instruct-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+Introduce a pirate adventure game with Cubetto! Preschoolers can guide their Lego pirate crew using Cubetto's commands: forward, turn left, and turn right. The mission: navigate through a Lego-built island to find hidden treasure. Start at the beach, use forward to move towards the forest, turn left at the tree, then turn right at the river to reach the cave. Inside, turn left at the rock to discover the treasure chest. This engaging game combines storytelling, creativity, and basic programming skills, making learning fun and interactive.

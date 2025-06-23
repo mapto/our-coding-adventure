@@ -1,0 +1,40 @@
+gemma-2-9b-it-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+## Ahoy, Mateys! Treasure Hunt with Cubetto!
+
+**Objective:** Guide your pirate crew to find the hidden treasure using Cubetto!
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto command blocks (forward, turn left, turn right)
+* Lego pirate figures
+* Lego bricks to build a simple obstacle course (optional)
+* Treasure chest (can be a small box decorated like a treasure chest)
+
+**Preparation:**
+
+1. Set up a play area with a designated starting point for the pirates and a hidden treasure chest.
+2. (Optional) Build a simple obstacle course using Lego bricks to add an extra challenge.
+
+**Gameplay:**
+
+1. **Storytelling:** Begin by telling the children a pirate story about a lost treasure map and a brave crew searching for it. 
+2. **Programming:** Explain to the children that they will be programming Cubetto, the pirate captain, to navigate the course and find the treasure. 
+3. **Command Blocks:** Introduce the three command blocks: forward, turn left, and turn right. Demonstrate how each block moves Cubetto in a specific direction.
+4. **Treasure Hunt:** Each child will take turns programming Cubetto to find the treasure. They can use the command blocks to create a sequence of movements that will lead Cubetto to the treasure chest. Encourage them to think about the direction they need to move and the turns they need to make.
+5. **Collaboration:** Children can work together to program Cubetto, sharing ideas and helping each other.
+
+**Variations:**
+
+* **Obstacle Course:** Add obstacles to the play area to make the treasure hunt more challenging.
+* **Multiple Treasures:** Hide multiple treasure chests with different rewards.
+* **Pirate Names:** Have the children give their Lego pirate figures names and create a story around them.
+
+**Learning Outcomes:**
+
+* **Problem-solving:** Children will learn to think logically and solve problems by creating a sequence of commands to guide Cubetto.
+* **Spatial reasoning:** Children will develop their understanding of directions and spatial relationships.
+* **Collaboration:** Children will learn to work together and share

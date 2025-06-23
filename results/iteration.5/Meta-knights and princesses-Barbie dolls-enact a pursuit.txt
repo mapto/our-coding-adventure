@@ -1,0 +1,31 @@
+Meta-Llama-3.1-8B-Instruct-GGUF	{'world': 'knights and princesses', 'objects': 'Barbie dolls', 'task': 'enact a pursuit'}
+
+-------------------
+**"Knight's Quest: Rescue the Princess"**
+
+**Objective:** Help the brave knight rescue the beautiful princess from the clutches of the evil dragon using the Cubetto tangible programming toy.
+
+**Storyline:** The kingdom is in chaos as the evil dragon has kidnapped the lovely princess. The brave knight, with the help of his trusty Cubetto, must navigate through the kingdom to reach the princess and rescue her.
+
+**Gameplay:**
+
+1. Set up the kingdom by arranging the Cubetto blocks and Barbie dolls in a designated area.
+2. The knight (played by a child) will use the Cubetto to navigate through the kingdom, while the princess (played by a Barbie doll) is placed in a designated "prison" area.
+3. The dragon (played by another child) will try to stop the knight by moving the princess to a different location.
+4. The knight must use the Cubetto to move forward, turn left, and turn right to reach the princess.
+5. The knight must program the Cubetto to follow a specific path to reach the princess, while avoiding obstacles and the dragon's attempts to distract them.
+
+**Cubetto Command Blocks:**
+
+* **Forward:** Move the Cubetto one block forward.
+* **Turn Left:** Turn the Cubetto 90 degrees to the left.
+* **Turn Right:** Turn the Cubetto 90 degrees to the right.
+
+**Challenge:** The knight must program the Cubetto to move around the kingdom, avoiding the dragon's attempts to stop them. The knight must use the Cubetto command blocks to create a path that will lead them to the princess.
+
+**Tips and Variations:**
+
+* Encourage children to experiment with different paths and programming sequences to reach the princess.
+* Add obstacles such as "mud puddles" or "thorns" to make the journey more challenging.
+* Introduce new characters, such as a wise old wizard or a brave knight's companion, to help or hinder the knight's progress.
+* Create a time limit for the knight to rescue the princess,

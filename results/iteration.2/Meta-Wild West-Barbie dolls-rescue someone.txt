@@ -1,0 +1,34 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone.
+
+A:
+Here's a scenario to play with Cubetto:
+
+**Title:** "Barbie's Wild West Rescue"
+
+**Story:** In the Wild West town of "Cactus Junction," a notorious outlaw named "Blackheart Bill" has kidnapped the town's beloved sheriff, played by a Barbie doll. The sheriff's trusty sidekick, also a Barbie doll, has sent out a distress call to all the brave cowboys and cowgirls in the area. It's up to the children to use Cubetto to create a rescue mission and save the sheriff.
+
+**Objective:** The children will use Cubetto to program a path for a brave cowboy (played by a child) to navigate through the Wild West town, avoiding obstacles and reaching the sheriff's prison cell to rescue her.
+
+**Setup:**
+
+1. Create a Wild West town setting using blocks, cardboard boxes, or other materials. Include a main street, a saloon, a sheriff's office, and a prison cell.
+2. Place the Barbie doll sheriff in the prison cell and the Barbie doll sidekick in the sheriff's office.
+3. Set up obstacles such as rocks, cacti, and bandits (played by other Barbie dolls) along the path to the prison cell.
+4. Introduce the Cubetto toy and explain its basic functions (e.g., moving forward, turning left or right, and stopping).
+
+**Gameplay:**
+
+1. The children will take turns using Cubetto to program a path for the brave cowboy to follow.
+2. Each child will create a sequence of steps using Cubetto's blocks, such as:
+	* Move forward 3 blocks
+	* Turn left
+	* Stop
+	* Move forward 2 blocks
+	* Turn right
+3. The child will then use the Cubetto to execute the program, and the brave cowboy will follow the path.
+4. If the cowboy encounters an obstacle, the child will need to adjust the program to navigate around it.
+5. The goal is to reach the prison cell and rescue the sheriff without getting caught by Blackheart Bill's bandits.
+
+**Variations:**
+
+* To add an extra challenge, introduce "weather"

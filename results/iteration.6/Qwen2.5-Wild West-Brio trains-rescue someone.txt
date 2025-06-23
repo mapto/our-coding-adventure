@@ -1,0 +1,27 @@
+Qwen2.5-7B-Instruct-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about Wild West, involve Brio trains and children should use Cubetto to rescue someone. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+Sure! Here’s a fun and engaging game for preschool children using the Cubetto tangible programming toy, themed around a Wild West rescue mission. This game will involve Brio trains and will use only three command blocks: forward, turn left, and turn right.
+
+### Title: Wild West Rescue Mission
+
+#### Objective:
+The children will use Cubetto to navigate through a Wild West-themed map to rescue a friend who is stuck in a Brio train. The goal is to guide Cubetto to the train, then to the rescue site, and finally back to safety.
+
+#### Materials:
+- Cubetto toy
+- Cubetto command blocks (forward, turn left, turn right)
+- Wild West-themed map (printed or drawn on a large piece of paper)
+- Brio train (or a simple train made from blocks)
+- Tokens or small figures to represent the rescuers and the person in need
+- Timer (optional)
+
+#### Setup:
+1. **Map Preparation**: Create a Wild West-themed map with different terrains like mountains, rivers, and deserts. Place the Brio train in a specific location on the map, and place the person in need (a small figure) near the train.
+2. **Starting Point**: Place Cubetto at the starting point on the map, which could be a small town or a campsite.
+3. **Rescue Site**: Mark the rescue site with a special symbol or a different color on the map.
+
+#### Game Instructions:
+1. **Introduction**: Explain the story to the children. A friend is stuck in a Brio train and needs to be rescued. Cubetto is the brave explorer who will help save the day!
+2. **Exploration**: The children will take turns programming Cubetto to move through the map. They can only use the three command blocks: forward, turn left, and turn right.
+3. **Navigating the Map**: The children must guide Cubetto to the Brio train. They can use the map to help them plan their route. Encourage them to think

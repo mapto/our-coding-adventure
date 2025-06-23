@@ -1,0 +1,30 @@
+OLMo-2-1124-7B-Instruct-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about Wild West, involve Brio trains and children should use Cubetto to rescue someone. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+Title: **Cubetto and the Wild West Adventure**
+
+**Objective:**
+In this thrilling Wild West adventure, preschoolers will use their creativity and problem-solving skills with Cubetto, the friendly robot, to rescue a character from a Brio train set. This engaging game combines the tactile fun of Cubetto with the imaginative world of the Wild West, all while reinforcing basic programming concepts through simple commands: forward (F), turn left (L), and turn right (R).
+
+**Setting:**
+The adventure begins in the bustling town of Wildville, where a daring train robbery has taken place. The Brio trains, carrying valuable supplies, have been hijacked by a notorious band of outlaws led by the cunning Black Bart. The townsfolk are in despair, and it's up to Cubetto and a brave group of young adventurers to save the day.
+
+**Characters:**
+- **Cubetto:** The hero of our story, equipped with a map and a heart full of courage.
+- **The Adventurers:** A group of preschoolers, each with a unique role: the Scout, the Engineer, the Sheriff, and the Doctor.
+- **Black Bart and the Outlaws:** The villains of the tale, who must be outwitted to restore peace to Wildville.
+
+**Gameplay:**
+
+**Act 1: The Planning Stage**
+
+The adventure starts in the town square, where the teacher explains the mission. The Scout uses a simple map made of paper and crayons to plan Cubetto's route. The map outlines the path from the town square to the train station, where the Brio trains are held hostage.
+
+**Act 2: The Journey Begins**
+
+Cubetto sets off on his quest. The Engineer uses the Cubetto command blocks to program the robot's movements:
+
+- **F**orward: Cubetto moves along the path towards the train station.
+- **L**eft turn: Cubetto navigates around obstacles like trees and rocks.
+- **R**ight turn: Cubetto approaches the train

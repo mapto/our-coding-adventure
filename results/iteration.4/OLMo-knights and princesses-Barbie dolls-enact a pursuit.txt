@@ -1,0 +1,16 @@
+OLMo-2-1124-7B-Instruct-GGUF	Parameters: {'world': 'knights and princesses', 'objects': 'Barbie dolls', 'task': 'enact a pursuit'}
+
+-------------------
+**Title: The Royal Chase**
+
+**Game Overview:**
+In "The Royal Chase," preschoolers embark on an enchanting adventure where they become brave knights and clever princesses. The game unfolds in a vibrant, imaginary kingdom filled with castles, forests, and magical creatures. The objective is for the knights to rescue the princesses who have been captured by a mischievous dragon. Using the Cubetto tangible programming toy, children will navigate their knight through a maze-like kingdom, solving puzzles and overcoming obstacles to reach each princess and ultimately save the kingdom.
+
+**Game Setup:**
+The game begins with children setting up their play area. They place a large map of the kingdom on the floor, marked with various landmarks such as castles, forests, and the dragon's lair. Each landmark is represented by a physical object or drawing to enhance the visual experience. The Cubetto robot, dressed as a knight in shining armor, is placed at the entrance of the kingdom. Barbie dolls, dressed as princesses, are positioned at different spots within the kingdom, each in need of rescue.
+
+**Gameplay:**
+Players use the Cubetto command blocks (forward, turn left, and turn right) to program the knight's path. The forward command moves the knight one block, the turn left command makes the knight pivot 90 degrees to the left, and the turn right command pivots him 90 degrees to the right. Children must strategically plan the knight's route to navigate through the kingdom, avoiding traps like quicksand pits and forests filled with thorny bushes, which are represented by physical barriers or drawn lines on the map.
+
+**Pursuit of Princesses:**
+To rescue a princess, children must reach her location and execute a specific sequence of commands. For instance, to reach a princess in a castle, they might need to move forward, turn right, and then move forward again. Each princess requires a unique set of commands, adding a layer of challenge and problem-solving. Once the correct sequence is executed, the princess is "rescued," and the knight and princess move to a safe spot outside the dragon's territory

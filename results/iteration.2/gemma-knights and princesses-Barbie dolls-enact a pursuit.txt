@@ -1,0 +1,38 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit.
+
+A:
+## The Knight's Quest: A Cubetto Adventure
+
+**Scenario:**
+
+Princess Sparkle has been kidnapped by the mischievous dragon, Sparky! Brave Knight Sir Cubetto must rescue her from Sparky's lair. 
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto blocks
+* Barbie dolls: Princess Sparkle, Sir Cubetto (dressed as a knight), Sparky the dragon
+* Play mat or large sheet of paper to represent the castle and dragon's lair
+
+**Instructions:**
+
+1. **Set the scene:**  Spread out the play mat and arrange the Barbie dolls. Place Princess Sparkle in the castle tower and Sparky in his lair, a designated area on the mat.
+
+2. **Introduce the mission:** Explain to the children that Sir Cubetto needs to rescue Princess Sparkle from Sparky's lair.
+
+3. **Program Sir Cubetto:**  Guide the children to program Cubetto to move towards the castle tower, then to the dragon's lair. Encourage them to use different blocks to make Cubetto turn, move forward, and even "fight" Sparky (by making Cubetto spin or move back and forth).
+
+4. **Act it out:** As Cubetto follows the program, the children can narrate the story, describing Sir Cubetto's brave journey and Sparky's attempts to stop him.
+
+5. **Rescue the princess:** Once Cubetto reaches Sparky's lair, the children can program him to "defeat" Sparky (e.g., by making him spin around) and then pick up Princess Sparkle.
+
+6. **Celebrate the victory:**  Have the children cheer for Sir Cubetto and Princess Sparkle as they return to the castle.
+
+**Variations:**
+
+* **Obstacles:** Add obstacles to the play mat, such as a bridge or a forest, and program Cubetto to navigate them.
+* **Treasure hunt:** Hide a treasure (a small toy or treat) in Sparky's lair and program Cubetto to find it.
+* **Multiple knights:** Use multiple Cubetto robots and have the children program different knights to help rescue Princess Sparkle.
+
+
+This scenario allows children to engage with storytelling, problem-solving, and coding concepts in a fun and imaginative way.

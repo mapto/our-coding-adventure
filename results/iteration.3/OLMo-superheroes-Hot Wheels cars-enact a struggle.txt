@@ -1,0 +1,36 @@
+bartowski/OLMo-2-1124-7B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+**Title: The Super Car Rescue**
+
+**Setting:**
+The vibrant city of Speedville is in peril! A massive traffic jam has formed due to a mysterious force that has trapped countless Hot Wheels cars in a giant, indestructible bubble. The city's beloved superheroes, Speedster, Turbo, and Zoom, are on the case, but they need your help to navigate through the chaos and rescue the cars.
+
+**Characters:**
+- **Speedster:** The fastest superhero, with a red cape and a lightning bolt on his chest.
+- **Turbo:** A hero with a blue suit and a jet-propelled backpack, capable of incredible speed bursts.
+- **Zoom:** A superhero with a green suit and the power of flight.
+- **Cubetto:** The brave child who controls the rescue mission using the Cubetto robot.
+
+**Objective:**
+Help Cubetto navigate through the city, avoiding obstacles, and reaching the bubble to free the trapped Hot Wheels cars.
+
+**Story:**
+
+**Page 1:**
+*The scene opens with Speedville bustling with activity. Suddenly, a giant, shimmering bubble appears, trapping hundreds of Hot Wheels cars. The city falls silent as citizens look on in dismay.*
+
+*Speedster, Turbo, and Zoom gather at the scene, ready to act. They turn to Cubetto, who is holding the Cubetto command blocks.*
+
+**Speedster:** "Cubetto, we need your help! Use your Cubetto robot to navigate through the city and find a way to pop this bubble!"
+
+**Turbo:** "We'll handle the bubble once you find the right spot. Be careful and watch out for obstacles!"
+
+**Zoom:** "And remember, teamwork is our superpower!"
+
+*Cubetto nods determinedly, taking the command blocks.*
+
+**Page 2:**
+*Cubetto starts the mission, moving forward through the city streets. The path is clear, but caution signs warn of potential hazards.*
+
+*Cubetto uses the **forward** command block to move steadily. The robot approaches a **turn left

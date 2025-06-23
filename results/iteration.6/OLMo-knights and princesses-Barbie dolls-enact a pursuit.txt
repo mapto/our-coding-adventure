@@ -1,0 +1,25 @@
+OLMo-2-1124-7B-Instruct-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+**Game Title:** The Royal Chase Adventure
+
+**Objective:** The knights must rescue the princess from the castle using Cubetto. The Barbie dolls narrate the story and guide the knights.
+
+**Setup:**
+- Place the castle model at one end of the room.
+- Position the princess Barbie doll near the castle entrance.
+- Scatter obstacles (pillow forts, tape lines) around the castle to create a maze.
+- Position the knight Barbie dolls at the starting point, each with a Cubetto robot.
+
+**Rules:**
+1. **Storytelling:** The Barbie dolls start the story, explaining the knight's mission and the princess's location.
+2. **Cubetto Commands:** Knights use three commands: forward, turn left, and turn right, to navigate through the maze.
+3. **Obstacle Navigation:** Knights must navigate through the obstacles using the correct commands, guided by the Barbie dolls' instructions.
+4. **Rescue:** The first knight to reach the princess and return to the starting point wins.
+
+**Gameplay:**
+- Barbie dolls act as narrators, providing clues and guiding the knights.
+- Knights use Cubetto to move through the maze, solving puzzles by choosing the right path.
+- Encourage teamwork: Knights can help each other by calling out commands or adjusting obstacles.
+
+This game combines storytelling, physical activity, and problem-solving, making it engaging and educational for preschoolers.

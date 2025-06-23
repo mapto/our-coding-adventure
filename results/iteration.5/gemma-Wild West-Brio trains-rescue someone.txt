@@ -1,0 +1,42 @@
+gemma-2-9b-it-GGUF	{'world': 'Wild West', 'objects': 'Brio trains', 'task': 'rescue someone'}
+
+-------------------
+##  Cubetto's Wild West Rescue!
+
+**Yee-haw, little cowboys and cowgirls!**  A tumbleweed has rolled into town and knocked Sheriff Woody off his horse! He's stuck in a canyon, and only you can rescue him!
+
+**What you need:**
+
+* Cubetto
+* Cubetto command blocks (Forward, Turn Left, Turn Right)
+* Brio train tracks
+* A Brio train (optional)
+* A toy sheriff (optional)
+
+**The Mission:**
+
+Sheriff Woody is trapped in a canyon at the end of the train tracks.  Use Cubetto to guide him out!
+
+**Setting the Stage:**
+
+1. Build a train track layout that resembles a canyon. Use curves and turns to make it challenging!
+2. Place Sheriff Woody at the end of the track.
+
+**The Rescue:**
+
+1. **Program Cubetto:**  Use the command blocks to program Cubetto to navigate the train tracks and reach Sheriff Woody. Remember, you can only use Forward, Turn Left, and Turn Right!
+2. **Test your program:**  Let Cubetto run! Watch as he carefully makes his way through the canyon.
+3. **Rescue Woody:**  Once Cubetto reaches Sheriff Woody, celebrate your success!
+
+**Bonus Challenges:**
+
+* **Train Ride:**  Use a Brio train to carry Sheriff Woody through the canyon. Program Cubetto to guide the train!
+* **Obstacle Course:**  Add obstacles to the track, like rocks or logs, and program Cubetto to overcome them!
+* **Different Routes:**  Try different programming sequences to find the fastest or most creative way to rescue Sheriff Woody!
+
+**Remember:**
+
+* Be patient and keep trying! Programming takes practice.
+* Have fun and let your imagination run wild!
+
+

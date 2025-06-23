@@ -1,0 +1,35 @@
+bartowski/Meta-Llama-3.1-8B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+**Scenario: "The Brave Knight's Rescue"**
+
+**Objective:** Help the brave knight (played by a child) rescue the princess (played by a Barbie doll) from the clutches of the evil dragon (played by another child).
+
+**Setup:**
+
+1. Place the Cubetto on the floor, and set up a simple obstacle course with blocks, books, or other objects to create a medieval landscape.
+2. Place the princess (Barbie doll) in a "captive" location, such as a small castle or a designated "prison" area.
+3. The evil dragon (played by a child) will be hiding nearby, waiting to pounce on the princess.
+
+**Gameplay:**
+
+1. The brave knight (played by a child) will use the Cubetto to navigate through the obstacle course and reach the princess.
+2. The evil dragon (played by a child) will try to chase the knight and prevent the rescue.
+3. The knight must use the Cubetto's command blocks to evade the dragon and reach the princess.
+4. The three Cubetto command blocks are:
+	* **Forward**: Move the Cubetto one step forward.
+	* **Turn Left**: Turn the Cubetto 90 degrees to the left.
+	* **Turn Right**: Turn the Cubetto 90 degrees to the right.
+5. The knight must use these command blocks to create a path to the princess while avoiding the dragon's attacks.
+
+**Challenges:**
+
+1. The dragon can move around the obstacle course, trying to block the knight's path.
+2. The knight must use the Cubetto's command blocks to create a safe path to the princess.
+3. If the knight reaches the princess, they win! If the dragon catches the knight, the game starts over.
+
+**Tips for Adults:**
+
+1. Encourage children to think creatively and come up with their own strategies to evade the dragon.
+2. Help children understand the Cubetto's command blocks and how to use them effectively.
+3. Encourage children to work together and take

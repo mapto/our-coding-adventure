@@ -1,0 +1,20 @@
+Mistral-7B-Instruct-v0.3-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+ Title: "Knightly Pursuit with Cubetto and Barbie"
+
+Description:
+In this imaginative game, preschool children will embark on a thrilling knightly pursuit using Cubetto, Barbie dolls, and a magical castle setting. The objective is for the knight (Cubetto) to chase the princess (Barbie) around the castle.
+
+1. Set up the castle using blocks, ramps, and tunnels. Place the princess (Barbie) in a hidden location within the castle.
+
+2. Program Cubetto with three simple commands:
+   - Forward: To move Cubetto towards the princess.
+   - Turn Left: To navigate around obstacles and corners within the castle.
+   - Turn Right: To change direction when the princess is out of reach or when Cubetto is cornered.
+
+3. Encourage children to predict the path Cubetto will take based on the commands given and discuss strategies for the knight to catch the princess.
+
+4. After each attempt, discuss what worked and what didn't, and adjust the commands or castle layout accordingly. This will help children develop problem-solving skills and understand the basics of programming logic.
+
+5. Once the knight catches the princess, celebrate the victory and reset the game for another round of pursuit. This game fosters creativity, collaboration, and early coding skills in a fun and engaging way.

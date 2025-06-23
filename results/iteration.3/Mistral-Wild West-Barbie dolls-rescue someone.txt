@@ -1,0 +1,32 @@
+bartowski/Mistral-7B-Instruct-v0.3-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+ Title: Cubetto's Wild West Rescue
+
+Setting: A Wild West town named "Toyville" where Barbie and her friends are in trouble.
+
+Characters:
+1. Cubetto (the protagonist)
+2. Barbie (the character in distress)
+3. Ken (Barbie's friend who needs help)
+4. Sheriff (a friendly Barbie doll)
+
+Scenario:
+
+1. Introduction:
+   Cubetto, the brave robot, has arrived in Toyville, a Wild West town filled with Barbie dolls. Barbie and her friends are having a fun day, but suddenly, they find themselves trapped in a mine by an outlaw Barbie doll. Ken, Barbie's friend, is trapped with them and needs help to escape.
+
+2. The Challenge:
+   Cubetto must navigate through the mine to find Barbie and Ken and rescue them. The mine is a maze of tunnels, and Cubetto can only move forward, turn left, or turn right.
+
+3. The Journey:
+   Cubetto starts at the entrance of the mine. The first command block to use is "forward" to move into the mine. Cubetto must navigate through the tunnels, turning left or right as needed to find Barbie and Ken.
+
+4. The Rescue:
+   Once Cubetto finds Barbie and Ken, he must position himself in a way that allows him to turn left or right to create a path for Barbie and Ken to follow back to the mine entrance. Cubetto then turns around and leads the way out of the mine.
+
+5. The Celebration:
+   After successfully rescuing Barbie and Ken, Cubetto is celebrated as a hero by the townsfolk, including the Sheriff. Barbie and Ken thank Cubetto for his help, and they all have a fun Wild West adventure together.
+
+6. Extension:
+   To make the scenario more challenging, you can add more turns or obstacles in the mine for Cubetto to navigate around. You can also introduce

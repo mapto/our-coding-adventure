@@ -1,0 +1,20 @@
+OLMo-2-1124-7B-Instruct-GGUF	{'world': 'pirates', 'objects': 'Lego figures', 'task': 'find a treasure'}
+
+-------------------
+**Title: Pirate Adventure with Cubetto: The Quest for the Treasure**
+
+**Objective:**
+Embark on a thrilling adventure with Cubetto, the charming robot, as he guides a band of brave Lego pirate figures through a treacherous landscape to uncover a hidden treasure. This engaging game is designed for preschoolers, encouraging creativity, problem-solving, and the fundamentals of programming through tangible interaction.
+
+**Setting:**
+The adventure begins on a vibrant, pirate-themed island, complete with sandy beaches, palm trees, and a mysterious mountain range in the background. The Lego pirate figures, each with unique features and accessories, are ready to set sail. The treasure is rumored to be buried deep within the mountain, guarded by riddles and challenges only Cubetto can help solve.
+
+**Gameplay:**
+Players start at the beach, where Cubetto awaits, equipped with three command blocks: forward, turn left, and turn right. The first challenge is to navigate Cubetto through a series of obstacles: a small river that must be crossed, a rocky path that requires precise turns, and a dense forest where the path is not visible. Each obstacle is represented by physical barriers made from Lego bricks or cardboard, encouraging children to physically move Cubetto around the play area.
+
+**Commands in Action:**
+- **Forward:** Cubetto must move straight ahead to cross the river or clear a path through the forest. Children place the forward block in the designated slot on Cubetto's control panel, propelling him forward.
+- **Turn Left/Right:** To navigate around obstacles, players use the turn commands. For instance, when approaching the rocky path, they must turn left to avoid the rocks. The left turn block is placed in the control panel, guiding Cubetto's direction.
+
+**Riddles and Challenges:**
+As Cubetto approaches the mountain, he encounters a series of riddles, each requiring a specific sequence of movements to unlock the next part of the path. For example, a riddle might be solved by moving forward three steps, turning left twice, and then moving forward again. Children must listen carefully to the riddles and use their programming

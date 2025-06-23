@@ -1,0 +1,47 @@
+gemma-2-9b-it-GGUF	Parameters: {'world': 'Wild West', 'objects': 'Barbie dolls', 'task': 'rescue someone'}
+
+-------------------
+##  Barbie's Wild West Rescue!
+
+**Get ready for a rootin' tootin' adventure with Barbie and Cubetto!**
+
+The Wild West is in trouble!  Barbie's trusty horse, Buttercup, has wandered off and gotten stuck in a prickly cactus patch.  She needs your help to get back to the ranch!
+
+**Here's what you'll need:**
+
+* Your Cubetto robot
+* Your Cubetto command blocks: Forward, Turn Left, Turn Right
+* Your favorite Barbie doll
+* A large play mat or open space
+
+**The Mission:**
+
+Use Cubetto to guide Barbie to Buttercup and rescue her from the cactus patch!
+
+**The Cactus Patch:**
+
+Draw a large cactus patch on your play mat using markers or tape.  Place Barbie doll near the edge of the cactus patch.  
+
+**The Ranch:**
+
+Designate a spot on your play mat as the ranch.  Place Buttercup the horse near the ranch.
+
+**Cubetto's Commands:**
+
+* **Forward:**  Cubetto will move forward one step.
+* **Turn Left:** Cubetto will turn 90 degrees to the left.
+* **Turn Right:** Cubetto will turn 90 degrees to the right.
+
+**The Challenge:**
+
+Can you program Cubetto to navigate through the cactus patch and reach Buttercup?  Remember, you can only use the Forward, Turn Left, and Turn Right commands!
+
+**Tips:**
+
+* Think carefully about the direction Cubetto needs to go.
+* Use the command blocks to create a path for Cubetto to follow.
+* Practice your programming skills by trying different combinations of commands.
+
+**Have fun rescuing Barbie and Buttercup!**
+
+

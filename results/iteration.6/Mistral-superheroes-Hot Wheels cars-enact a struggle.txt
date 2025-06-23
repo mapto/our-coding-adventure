@@ -1,0 +1,18 @@
+Mistral-7B-Instruct-v0.3-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+ Title: Superhero Car Chase with Cubetto and Hot Wheels
+
+Description:
+In this engaging and interactive game, preschool children will use the Cubetto tangible programming toy to create a thrilling superhero car chase!
+
+Setup:
+1. Set up a race track using Hot Wheels cars and tracks.
+2. Place Cubetto on the starting line with three command blocks: forward, turn left, and turn right.
+
+Gameplay:
+1. Each child takes turns programming Cubetto to navigate the race track, avoiding obstacles and chasing after their superhero Hot Wheels car.
+2. The objective is for Cubetto to catch up to and "struggle" with (i.e., block the path of) the superhero car by using the command blocks to make strategic turns and move forward.
+3. The child who successfully blocks the superhero car's path the most times wins!
+
+This game encourages children to develop their problem-solving skills, spatial reasoning, and creativity while having fun with superheroes and Hot Wheels cars. The limited number of command blocks also helps children focus on essential programming concepts.

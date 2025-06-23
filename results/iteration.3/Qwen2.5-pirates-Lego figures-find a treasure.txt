@@ -1,0 +1,38 @@
+bartowski/Qwen2.5-7B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+### Pirate Treasure Hunt Adventure with Cubetto
+
+**Objective:** Guide Cubetto, the wooden robot, to find the hidden treasure on a pirate-themed map using only three command blocks: forward, turn left, and turn right.
+
+**Materials:**
+- Cubetto toy
+- Map with a pirate-themed layout (drawn on a large piece of paper or printed from a template)
+- Lego figures (pirates, treasure chest, etc.)
+- Colored markers or stickers (optional, for marking the treasure)
+
+**Setup:**
+1. Place Cubetto at the starting point on the map.
+2. Arrange Lego figures to create a pirate-themed scene, including a treasure chest that will be the final destination.
+3. Explain the story to the children: "Cubetto is a brave pirate ship, and we need to help him find the treasure!"
+
+**Instructions:**
+1. **Introduction:**
+   - Introduce the concept of programming to the children by explaining that Cubetto will follow instructions to move and turn.
+   - Show them the three command blocks: forward, turn left, and turn right.
+
+2. **Exploration:**
+   - Place Cubetto at the starting point on the map.
+   - Ask the children to think about where they want Cubetto to go to find the treasure.
+   - Encourage them to use the command blocks to create a path for Cubetto.
+
+3. **Guided Play:**
+   - Start with simple paths, such as:
+     - "Let's make Cubetto move forward three times, then turn right, then move forward two times, and finally turn left."
+   - As the children get comfortable, introduce more complex paths, like:
+     - "Can you make Cubetto move forward, then turn left, then move forward, then turn right, and finally move forward again?"
+
+4. **Treasure Hunt:**
+   - Once the children have created a path, guide them to place the Lego treasure chest at the end of the path.
+   - Encourage them to check if Cubetto can find the treasure by following the path they created.
+  

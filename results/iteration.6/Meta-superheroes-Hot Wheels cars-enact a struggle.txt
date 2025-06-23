@@ -1,0 +1,31 @@
+Meta-Llama-3.1-8B-Instruct-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+**Superhero Rescue Mission**
+
+**Objective:** Help the superhero rescue the trapped civilians from the villain's lair using Hot Wheels cars and Cubetto.
+
+**Setup:**
+
+1. Create a simple track using Hot Wheels cars for the superhero to navigate.
+2. Place the Cubetto at the starting point of the track.
+3. Set up the villain's lair at the end of the track with a few civilians trapped inside.
+
+**Gameplay:**
+
+1. Explain to the children that they will use Cubetto to control the superhero's movements.
+2. Introduce the three Cubetto command blocks: forward, turn left, and turn right.
+3. Demonstrate how to use the blocks to navigate the superhero through the track.
+4. Challenge the children to create a sequence of Cubetto blocks to help the superhero reach the civilians.
+5. As the children enact their sequence, ask them to describe what's happening in the story (e.g., "The superhero is driving forward to reach the civilians!").
+6. To add a challenge, introduce obstacles like rocks or tunnels that the superhero must navigate around.
+7. Encourage the children to experiment with different sequences and try again if they fail.
+
+**Struggle Enactment:**
+
+To enact a struggle, you can introduce a villain character (e.g., a cardboard box) that the superhero must overcome. For example:
+
+* The villain is blocking the superhero's path, and the children must use Cubetto to create a sequence to move the superhero around the villain.
+* The villain is trying to steal the civilians, and the children must use Cubetto to create a sequence to chase the villain and rescue the civilians.
+
+This game encourages problem-solving, creativity, and critical thinking while introducing preschool children to the basics of programming with Cubetto.

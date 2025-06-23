@@ -1,0 +1,46 @@
+bartowski/Qwen2.5-7B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+Sure! Here’s a one-page scenario for preschool children to play with Cubetto using the theme of superheroes and Hot Wheels cars:
+
+---
+
+**Superhero Adventure with Cubetto**
+
+**Objective:** Help your favorite superhero save the day by racing Hot Wheels cars through a dangerous city!
+
+**Materials Needed:**
+- Cubetto toy
+- Command blocks (forward, turn left, turn right)
+- Hot Wheels cars
+- A map or a simple city layout (you can draw one on paper or use a board game map)
+
+**Scenario:**
+You are a brave superhero, and your mission is to save the city from a villain who has taken over the streets! Your trusty Hot Wheels car is your vehicle, and Cubetto will help you navigate through the city.
+
+**Instructions:**
+1. **Set Up:**
+   - Place Cubetto at the starting point of your city map.
+   - Place your Hot Wheels car at the starting point.
+   - Place the villain’s lair at the end of the map.
+
+2. **Mission:**
+   - Your mission is to drive your Hot Wheels car from the starting point to the villain’s lair.
+   - Use Cubetto to move the car forward, turn left, or turn right.
+
+3. **Commands:**
+   - **Forward:** Move the car one step forward.
+   - **Turn Left:** Turn the car to the left.
+   - **Turn Right:** Turn the car to the right.
+
+4. **Strategy:**
+   - Plan your route by placing the command blocks in the correct order.
+   - Remember, you can only use three command blocks!
+
+5. **Example:**
+   - If the path is straight, use three "Forward" blocks.
+   - If the path is a simple turn, use one "Turn Left" or "Turn Right" block followed by two "Forward" blocks.
+   - If the path is more complex, use a combination of "Forward," "Turn Left," and "Turn Right" blocks.
+
+6. **Challenge:**
+   - Can you find a way to reach the villain’s la

@@ -1,0 +1,10 @@
+Qwen2.5-7B-Instruct-GGUF	Parameters: {'world': 'superheroes', 'objects': 'Hot Wheels cars', 'task': 'enact a struggle'}
+
+-------------------
+In the thrilling world of Cubetto's Superhero Adventure, preschool children embark on an exciting journey to save the city from the evil Dr. Vortex. Using the Cubetto tangible programming toy, kids become young superheroes, guiding their Hot Wheels cars through a series of challenges. The game is designed to be both fun and educational, teaching basic programming concepts through simple commands.
+
+The mission begins when a mysterious signal is received, activating a series of obstacles and challenges. Children place Cubetto on the map, which is a large, colorful board designed to resemble a cityscape. They use three command blocks: "Forward," "Turn Left," and "Turn Right." By placing these blocks in a sequence, they program Cubetto to navigate through the city, avoiding traps and rescuing citizens.
+
+For instance, a child might program Cubetto to move forward, turn right, and then move forward again to avoid a pit trap. Another challenge might require turning left to bypass a moving car obstacle. Each successful command brings the Hot Wheels car closer to the villain's lair, where the final showdown takes place. Children must use their problem-solving skills to program Cubetto to reach Dr. Vortex and save the day.
+
+This interactive game not only teaches children about basic programming concepts but also encourages creativity, critical thinking, and teamwork. As they progress through the levels, the challenges become more complex, challenging them to think strategically and plan their moves carefully. The use of Hot Wheels cars adds a playful and engaging element, making the learning experience both fun and memorable.

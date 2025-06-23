@@ -1,0 +1,30 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone.
+
+A:
+ Title: Cubetto's Wild West Rescue Adventure
+
+Characters:
+1. Cubetto: A brave robot explorer who loves adventures.
+2. Barbie Dolls: Cowgirl Barbie (Barbie) and Sheriff Barbie (Ken).
+3. Rancher Sam: A friend in need of rescue.
+4. Outlaws: The villains who have captured Rancher Sam.
+
+Setting: The Wild West, a town named Tumbleweed.
+
+Scenario:
+
+In the dusty town of Tumbleweed, a peaceful life is disrupted when Rancher Sam is captured by a gang of outlaws. Barbie and Ken, the town's sheriff and cowgirl, are determined to rescue Rancher Sam and bring the outlaws to justice.
+
+Cubetto, the friendly robot, arrives in Tumbleweed just in time to help. The children will program Cubetto to navigate through the town, overcoming obstacles and solving puzzles to find Rancher Sam.
+
+Along the way, Cubetto will encounter various challenges:
+
+1. Barrier: A fence blocking the path. The children will program Cubetto to turn left, go forward, turn right, and go forward again to jump over the fence.
+
+2. Puzzle: A safe with a combination lock. The children will program Cubetto to follow a specific path to reveal the combination (e.g., turn left, go forward 3 times, turn right, go forward 2 times, turn left, go forward once).
+
+3. Maze: A labyrinth created by barrels and crates. The children will program Cubetto to follow a specific path through the maze to reach the outlaws' hideout.
+
+4. Showdown: A confrontation with the outlaws. The children will program Cubetto to move towards the outlaws and activate a pre-programmed action (e.g., play a tune to distract them, use a lasso to tie them up).
+
+5. Rescue: Cubetto will find Rancher Sam tied up near the hideout. The children will

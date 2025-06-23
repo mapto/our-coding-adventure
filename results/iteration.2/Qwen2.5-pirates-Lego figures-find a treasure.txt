@@ -1,0 +1,30 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure.
+
+A:
+Certainly! Here's a fun scenario for pre-school children to play with Cubetto, incorporating pirates, Lego figures, and a treasure hunt:
+
+### Scenario: "Pirate Cubetto's Treasure Hunt"
+
+#### Materials Needed:
+- Cubetto toy
+- Programming cards (included with Cubetto)
+- Lego figures (pirates, treasure chest, etc.)
+- A large play mat or a large piece of cardboard
+- Small objects to represent treasure (e.g., small Lego bricks, beads, or toy coins)
+- A map or a treasure map drawn on paper or a digital tablet
+
+#### Setup:
+1. **Create a Play Area:** Lay out the play mat or cardboard on the floor. Place a map on top of it, and arrange the Lego figures to create a pirate-themed scene. You can have a few Lego pirates, a treasure chest, and other elements like a ship, a map, and a few obstacles (like rocks or cliffs).
+
+2. **Introduce the Story:** Tell the children that they are going to help Pirate Cubetto find the treasure. Explain that Cubetto is a special robot pirate who needs to follow a map to find the treasure.
+
+#### Activity:
+1. **Explain the Map:** Show the children the treasure map and explain that it has clues to help Cubetto find the treasure. Each clue is a direction (forward, left, right) and a number of steps.
+
+2. **Create the Clues:** Place the Lego figures and objects in different spots on the play mat to represent the treasure map. For example, you might place a pirate figure at the starting point, a treasure chest at the end, and other objects as obstacles or landmarks.
+
+3. **Program Cubetto:** Give the children the programming cards and explain that they need to use these cards to program Cubetto to follow the map. Each card has a direction and a number, which the children can use to create a sequence of moves for Cubetto.
+
+4. **Build the Path:** Have the children lay out the programming cards on the play mat, creating a path for Cubetto to follow. They can move the cards around to change the path and make the challenge more interesting.
+
+5. **Test

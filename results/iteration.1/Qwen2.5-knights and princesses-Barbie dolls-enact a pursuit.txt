@@ -1,0 +1,37 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit.
+
+A:
+Certainly! Here’s a fun scenario for children to play with Cubetto, incorporating knights and princesses, Barbie dolls, and programming skills:
+
+### Scenario: The Quest for the Lost Princess
+
+#### Setting:
+- **Location:** A magical forest filled with enchanted trees, sparkling streams, and hidden castles.
+- **Characters:**
+  - **Cubetto:** The brave knight on a quest to rescue the princess.
+  - **Barbie dolls:** Represent the princess and her loyal subjects.
+  - **Cubetto’s companions:** Other Barbie dolls representing knights, soldiers, and magical creatures.
+
+#### Objective:
+Children will use Cubetto to navigate through the forest, solve puzzles, and rescue the princess from the clutches of a wicked dragon.
+
+#### Steps:
+
+1. **Setup:**
+   - Place Cubetto at the starting point of the forest.
+   - Arrange the Barbie dolls to represent the princess and her subjects in a castle at the end of the forest.
+   - Place the wicked dragon and other obstacles (like trees, rocks, and streams) in the forest.
+
+2. **Puzzle 1: The Path to the Castle**
+   - Explain to the children that Cubetto needs to find the path to the castle where the princess is being held.
+   - Use a simple map or a grid to represent the forest. Mark the path with different colored dots or symbols.
+   - Children will program Cubetto to move forward, turn left, or turn right based on the map.
+
+3. **Puzzle 2: The Dragon’s Lair**
+   - Once Cubetto reaches the dragon’s lair, the children need to program Cubetto to avoid the dragon and find a way to defeat it.
+   - Use a simple obstacle course with Cubetto needing to avoid the dragon’s breath (represented by a fan or a toy dragon) and find a magical shield (a small cube or block) to protect itself.
+   - Children will program Cubetto to move around the obstacles and find the shield.
+
+4. **Puzzle 3: Rescue the Princess**
+   - After defeating the dragon, Cubetto needs to rescue the princess.
+   - Place the Barbie dolls representing the princess and her subjects in a

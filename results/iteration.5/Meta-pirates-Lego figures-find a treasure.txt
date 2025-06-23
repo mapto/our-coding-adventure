@@ -1,0 +1,38 @@
+Meta-Llama-3.1-8B-Instruct-GGUF	{'world': 'pirates', 'objects': 'Lego figures', 'task': 'find a treasure'}
+
+-------------------
+**Treasure Hunt Adventure with Cubetto**
+
+**Age Group:** Preschool Children (3-5 years)
+
+**Objective:** Help the pirate find the hidden treasure using Cubetto, a tangible programming toy.
+
+**Game Description:**
+
+Imagine a sunny day on a pirate island, where a brave pirate is on a mission to find the hidden treasure. The pirate has a map, but it's not clear where the treasure is located. The children will use Cubetto to help the pirate navigate through the island and find the treasure.
+
+**Gameplay:**
+
+1. The game starts with the pirate standing at the beginning of the island, surrounded by Lego figures and obstacles.
+2. The children will use Cubetto to create a program for the pirate to follow. They will use three command blocks: **Forward**, **Turn Left**, and **Turn Right**.
+3. The children will need to think critically and problem-solve to help the pirate reach the treasure. They will need to use the command blocks to navigate through the island, avoiding obstacles and finding the right path to the treasure.
+4. As the pirate moves through the island, the children will observe the pirate's actions and make adjustments to the program as needed.
+5. The game ends when the pirate reaches the treasure, and the children will feel a sense of accomplishment and pride in their problem-solving skills.
+
+**Variations:**
+
+* To make the game more challenging, add more obstacles or Lego figures to the island.
+* To make the game easier, provide the children with a hint or a clue to help them find the treasure.
+* To make the game more collaborative, have multiple children work together to create a program for the pirate to follow.
+
+**Learning Outcomes:**
+
+* Develop problem-solving skills and critical thinking.
+* Understand the concept of programming and sequencing.
+* Improve spatial awareness and navigation skills.
+* Enhance creativity and imagination.
+
+**Tips for Adults:**
+
+* Encourage children to think creatively and experiment with different programs.
+* Provide guidance and support as needed, but allow children to take ownership of their problem-solving process.

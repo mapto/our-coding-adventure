@@ -1,0 +1,10 @@
+Qwen2.5-7B-Instruct-GGUF	Parameters: {'world': 'pirates', 'objects': 'Lego figures', 'task': 'find a treasure'}
+
+-------------------
+In the whimsical world of Cubetto's Treasure Hunt, preschool children embark on a pirate adventure to find a hidden treasure. The game is designed to introduce basic programming concepts in a fun and engaging way. Children use the Cubetto toy, which features a wooden board and three command blocks—forward, turn left, and turn right—to navigate a map filled with pirate-themed obstacles and clues.
+
+The game begins with a set of Lego figures representing pirates, treasure chests, and other pirate-themed elements. Children place these figures on a large, colorful map that represents the pirate's island. The goal is to guide Cubetto, the wooden robot, to the treasure chest using the command blocks. Each command block is placed on the board to instruct Cubetto's movements, teaching children how to sequence actions and solve simple puzzles.
+
+For example, a child might need to use the "turn left" block twice, followed by a "forward" block, and then a "turn right" block to navigate around a pirate ship and reach a hidden treasure. This simple yet effective gameplay encourages children to think logically and plan their moves, all while enjoying the excitement of a pirate treasure hunt.
+
+Through this interactive and playful experience, Cubetto's Treasure Hunt not only entertains but also lays the foundation for understanding basic programming concepts, such as sequence and direction, in a way that is accessible and enjoyable for young children.

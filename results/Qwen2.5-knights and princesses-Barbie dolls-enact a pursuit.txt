@@ -1,0 +1,23 @@
+Qwen2.5-7B-Instruct-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+Certainly! Here’s a fun and engaging game idea for preschool children using the Cubetto tangible programming toy, themed around knights and princesses:
+
+---
+
+**Knightly Pursuit Adventure**
+
+In this imaginative game, children will use Cubetto to create a thrilling pursuit between a brave knight and a kind princess. The game will involve Barbie dolls, which will be placed on a large play mat or board. The children will use only three Cubetto command blocks: forward, turn left, and turn right.
+
+1. **Setup**: Place the Barbie dolls on the play mat, with the knight and princess in different starting positions. The play mat can be decorated with a medieval castle, a forest, or a magical garden to enhance the theme.
+
+2. **Objective**: The children will program Cubetto to follow the knight as he pursues the princess. The goal is to create a path that leads Cubetto from the knight's starting position to the princess's position, with the knight trying to catch up.
+
+3. **Gameplay**: Each child will take turns programming Cubetto using the forward, turn left, and turn right blocks. They can add obstacles or treasures along the path to make the pursuit more exciting. For example, they might program Cubetto to turn left around a tree or turn right to avoid a dragon.
+
+4. **Rules**: The knight (Cubetto) must follow the path created by the children's commands. If Cubetto reaches the princess's position, the knight wins! If the princess manages to escape by changing the path, she wins.
+
+5. **Variations**: To keep the game interesting, children can switch roles, with one child programming Cubetto as the knight and another as the princess. They can also add different challenges, such as a time limit or a requirement to collect specific items along the way.
+
+This game encourages children to think creatively, practice problem-solving skills, and develop an understanding of basic programming concepts through a fun and engaging narrative.

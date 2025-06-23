@@ -1,0 +1,37 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure.
+
+A:
+Certainly! Here's a fun scenario for children to use Cubetto to find a treasure while playing as pirates:
+
+### Scenario: The Great Pirate Treasure Hunt
+
+#### Setting:
+Imagine a vast, mysterious island filled with hidden treasures and traps. The children are part of a pirate crew, and their mission is to find the legendary treasure of Captain Blackbeard.
+
+#### Materials:
+- Cubetto the wooden robot
+- A set of Cubetto blocks (directional blocks: forward, backward, left, right, and a few special blocks for loops and conditions)
+- Lego figures (pirates, treasure chest, island map, etc.)
+- A large play mat or a flat surface to represent the island
+- A treasure map (a simple grid with clues)
+- Small Lego pieces or other treasures to represent the treasure
+
+#### Instructions:
+1. **Setup the Island:**
+   - Place the play mat on the floor or table.
+   - Use Lego figures to create a pirate-themed island with landmarks like a palm tree, a cave, a waterfall, and a treasure chest.
+   - Place Cubetto at the starting point, which could be a pirate ship or a pirate flag.
+
+2. **Create the Treasure Map:**
+   - Draw a simple grid on a piece of paper or use a pre-made treasure map. Mark the starting point and the treasure location.
+   - Add clues or riddles at different points on the map that the children can solve to guide Cubetto to the next step.
+
+3. **The Quest Begins:**
+   - Explain to the children that they are on a quest to find the treasure of Captain Blackbeard.
+   - Give them the treasure map and tell them that each clue will help them navigate Cubetto to the next location.
+   - For example, the first clue might say, "Move forward three steps, then turn left and move forward two steps."
+
+4. **Using Cubetto:**
+   - Children will use the Cubetto blocks to program the robot to follow the clues.
+   - They can place the blocks in a sequence to tell Cubetto where to go.
+   - For example, if the clue is "Move forward three steps, then turn left and move forward two steps," they

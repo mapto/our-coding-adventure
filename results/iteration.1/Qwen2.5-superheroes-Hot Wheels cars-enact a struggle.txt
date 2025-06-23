@@ -1,0 +1,36 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle.
+
+A:
+Certainly! Here's a fun scenario for children to play with Cubetto, incorporating superheroes, Hot Wheels cars, and a thrilling struggle:
+
+### Scenario: "The Great Hot Wheels Heist"
+
+#### Setting:
+The children are in a city where a group of villains has stolen all the Hot Wheels cars from the local toy store. The store's superhero, Turbo the Turbocharged Turtle, has been tasked with retrieving the stolen cars and returning them to the store. Turbo has a Cubetto robot as his sidekick, and together they will embark on a mission to save the day!
+
+#### Materials:
+- Cubetto robot
+- Cubetto programming blocks
+- Hot Wheels cars (or small toy cars)
+- A map of the city (a simple grid or a printed map)
+- Cubetto's map (a simple grid with different locations like the toy store, villains' hideout, etc.)
+- Tokens or stickers to represent different locations and obstacles
+
+#### Instructions:
+
+1. **Setup the Map:**
+   - Place the map on a flat surface.
+   - Use tokens or stickers to mark different locations such as the toy store, villains' hideout, and checkpoints.
+   - Place obstacles like traffic cones or small blocks to represent challenges like speed bumps or roadblocks.
+
+2. **Introduce the Mission:**
+   - Turbo the Turbocharged Turtle explains to the children that they need to retrieve the stolen Hot Wheels cars from the villains' hideout.
+   - Turbo gives Cubetto a mission card with a simple route to follow, such as "Move forward 3 steps, turn right, move forward 2 steps, turn left, and move forward 4 steps."
+
+3. **Programming Cubetto:**
+   - The children will use the Cubetto programming blocks to program Cubetto to follow the route on the mission card.
+   - They can add simple commands like "Move forward," "Turn left," "Turn right," and "Wait" to navigate Cubetto through the map.
+   - Encourage them to think about the obstacles and how Cubetto can navigate around them.
+
+4. **The Heist:**
+   - Once Cubetto reaches the villains' hideout, Turbo and Cubetto must use their skills to retrieve

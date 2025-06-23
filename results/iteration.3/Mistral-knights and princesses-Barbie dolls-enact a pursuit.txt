@@ -1,0 +1,43 @@
+bartowski/Mistral-7B-Instruct-v0.3-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+ Title: The Knight's Quest for the Brave Princess
+
+Setting: A magical kingdom filled with castles, towers, and a beautiful princess in distress.
+
+Characters:
+1. Cubetto (The Brave Knight)
+2. Barbie Doll (The Princess)
+3. Cubetto's Blocks (The Tools)
+
+Objective: Guide Cubetto, the brave knight, on a quest to rescue the princess from the castle tower.
+
+Scenario:
+
+1. Start (Home Base): Cubetto is at the castle gates, ready to embark on his quest.
+
+2. Forward (5 spaces): Cubetto moves forward towards the castle.
+
+3. Turn Left (90 degrees): Cubetto takes a left turn, approaching the castle's main entrance.
+
+4. Forward (3 spaces): Cubetto continues forward, approaching the castle's drawbridge.
+
+5. Turn Right (90 degrees): Cubetto turns right, crossing the drawbridge and entering the castle courtyard.
+
+6. Forward (2 spaces): Cubetto moves forward, approaching the castle tower.
+
+7. Turn Left (90 degrees): Cubetto turns left, wrapping around the castle tower.
+
+8. Forward (1 space): Cubetto moves forward, coming to a window where the princess is trapped.
+
+9. Turn Right (180 degrees): Cubetto turns around, positioning himself in front of the window.
+
+10. Forward (1 space): Cubetto moves forward, reaching the window where the princess is trapped.
+
+11. Turn Right (90 degrees): Cubetto turns right, positioning himself to rescue the princess.
+
+12. Forward (1 space): Cubetto moves forward, reaching the princess.
+
+13. Turn Left (90 degrees): Cubetto turns left, creating a path for the princess to follow.
+
+14. Forward (5 spaces): Cubetto moves forward, leading the princess out of the castle and back

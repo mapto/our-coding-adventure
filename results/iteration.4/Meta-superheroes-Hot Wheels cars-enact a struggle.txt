@@ -1,0 +1,41 @@
+Meta-Llama-3.1-8B-Instruct-GGUF	Parameters: {'world': 'superheroes', 'objects': 'Hot Wheels cars', 'task': 'enact a struggle'}
+
+-------------------
+**Superhero Rescue Mission**
+
+**Age Group:** Preschool Children (3-5 years)
+
+**Objective:** Help the superheroes rescue the city from the evil villain's Hot Wheels cars by using the Cubetto tangible programming toy.
+
+**Storyline:** The city is in chaos as the evil villain's Hot Wheels cars are causing trouble. The superheroes need your help to stop them. You will use the Cubetto to program a brave superhero to navigate through the city and rescue the Hot Wheels cars.
+
+**Gameplay:**
+
+1. Set up the city with blocks and obstacles for the superhero to navigate.
+2. Place the Hot Wheels cars in different locations around the city, representing the evil villain's minions.
+3. Give each child a Cubetto and a superhero figure.
+4. Explain the three Cubetto command blocks: forward, turn left, and turn right.
+5. Challenge the children to program their superhero to reach the Hot Wheels cars and rescue them.
+
+**Example Program:**
+
+To rescue a Hot Wheels car stuck in a narrow alley, a child might program their Cubetto as follows:
+
+1. Forward (move the superhero to the alley)
+2. Turn left (turn the superhero to face the Hot Wheels car)
+3. Forward (move the superhero to the Hot Wheels car)
+4. Turn right (turn the superhero to face the exit)
+5. Forward (move the superhero out of the alley)
+
+**Variations:**
+
+* Add more Hot Wheels cars with different challenges, such as navigating through a maze or avoiding obstacles.
+* Introduce new Cubetto command blocks, such as "wait" or "repeat," to increase the complexity of the program.
+* Encourage children to work in teams to create a more complex rescue mission.
+* Use the Cubetto to program other superheroes with different abilities, such as flying or super strength.
+
+**Assessment:**
+
+* Observe children's ability to understand and use the Cubetto command blocks.
+* Evaluate their problem-solving skills as they navigate the city and rescue the Hot Wheels cars.
+* Assess their ability to think critically and make adjustments to

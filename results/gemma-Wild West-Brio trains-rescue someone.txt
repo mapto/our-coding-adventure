@@ -1,0 +1,38 @@
+gemma-2-9b-it-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about Wild West, involve Brio trains and children should use Cubetto to rescue someone. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+##  Cubetto's Wild West Rescue!
+
+**Theme:** Wild West
+
+**Objective:** Use Cubetto to guide a train through a Brio track to rescue a stranded cowboy!
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto command blocks (forward, turn left, turn right)
+* Brio train track set
+* Small cowboy figurine (or any other toy representing the person to be rescued)
+
+**Setup:**
+
+1. Create a Brio track layout resembling a Wild West town. Include obstacles like bridges, tunnels, and maybe even a saloon!
+2. Place the cowboy figurine somewhere on the track, stranded and needing rescue.
+
+**Instructions:**
+
+1. **Storytelling:** Begin by setting the scene. Tell the children a story about a brave cowboy who got lost in the Wild West and is stranded on the tracks. He needs your help to get back to town!
+2. **Programming:** Explain to the children that they will be using Cubetto to guide the train and rescue the cowboy. Show them the three command blocks: forward, turn left, and turn right. Explain how each block makes Cubetto move in a different direction.
+3. **Trial and Error:** Let the children experiment with different combinations of command blocks to guide the train through the track. Encourage them to try different paths and see what happens.
+4. **Collaboration:** Encourage teamwork! Children can work together to program the train, taking turns adding command blocks and testing their program.
+5. **Success!** When the train reaches the cowboy, celebrate their success! They have successfully rescued the cowboy from the Wild West!
+
+**Extension Activities:**
+
+* **Obstacle Course:** Add more obstacles to the track, challenging the children to program the train to navigate them.
+* **Different Trains:** Use different Brio train cars to represent different characters in the Wild West story.
+* **Storytelling:** Encourage children to create their own Wild West stories and use Cubetto to act them out.
+
+
+This game allows children to explore basic programming concepts in a fun and engaging way while developing their problem-solving skills and creativity. The Wild

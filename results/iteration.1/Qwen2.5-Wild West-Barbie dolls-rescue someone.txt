@@ -1,0 +1,33 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone.
+
+A:
+Certainly! Here's a fun and engaging scenario for children to play with Cubetto, incorporating elements of the Wild West, Barbie dolls, and programming skills:
+
+### Scenario: "Rescue the Outlaw's Stolen Treasure"
+
+#### Setting:
+- **Location:** The Wild West, specifically a small town with a sheriff's office, a saloon, and a cave where the treasure is hidden.
+- **Characters:**
+  - **Cubetto:** The brave and clever robot who will help the children on their mission.
+  - **Barbie dolls:** Representing the children and their team.
+  - **Outlaw:** A character who has stolen the treasure and is hiding it in the cave.
+  - **Sheriff:** A character who is trying to catch the outlaw but needs help from the children.
+
+#### Objective:
+The children must use Cubetto to navigate through the town and into the cave to rescue the treasure and return it to the sheriff. Along the way, they will encounter various challenges that they must solve using programming skills.
+
+#### Steps:
+
+1. **Introduction:**
+   - Introduce the scenario to the children, explaining that they are part of a team of brave cowboys and cowgirls who will help the sheriff catch the outlaw and return the stolen treasure.
+   - Explain that Cubetto will be their guide and helper.
+
+2. **Mission Briefing:**
+   - The children receive a map of the town and a set of instructions on how to use Cubetto. The map shows the locations of the sheriff's office, the saloon, and the cave.
+   - The instructions include simple programming commands (e.g., "Move forward," "Turn right," "Turn left") that the children must use to guide Cubetto.
+
+3. **Mission 1: Navigate to the Saloon:**
+   - The first challenge is to guide Cubetto from the sheriff's office to the saloon. The children must program Cubetto to move forward and turn at specific points.
+   - Once at the saloon, they can interact with a simple puzzle or riddle that the outlaw has left behind. Solving the riddle will give them a clue about the next step.
+
+4. **Mission 2:

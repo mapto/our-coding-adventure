@@ -1,0 +1,26 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone.
+
+A:
+ Title: Cubetto's Wild West Rescue Adventure
+
+Scenario:
+
+Welcome to the Wild West! Cubetto, the friendly robot, has arrived in a small frontier town named Pioneerville. The town is in trouble! Barbie and her friends have been captured by the notorious outlaw gang, the Rustlers, and are being held in their hideout, the Bandit's Bluff.
+
+Your task is to help Cubetto navigate through the Wild West landscape, solve puzzles, and overcome obstacles to rescue Barbie and her friends.
+
+Here's a breakdown of the game:
+
+1. **The Starting Point**: Cubetto is at the Pioneerville General Store. The children will program Cubetto to move towards the Bandit's Bluff using the Cubetto blocks.
+
+2. **The Desert Crossing**: Cubetto must cross the arid desert to reach the Bandit's Bluff. The children will use the blocks to make Cubetto avoid the cacti and reach the other side safely.
+
+3. **The Canyon**: Cubetto must navigate through the treacherous canyon. The children will program Cubetto to climb up and down the canyon walls using the ramps and slopes.
+
+4. **The Bandit's Bluff**: Cubetto reaches the Bandit's Bluff. The children will solve a puzzle to open the door to the hideout. Inside, they will find Barbie and her friends.
+
+5. **The Escape**: Cubetto must lead Barbie and her friends back to Pioneerville. The children will program Cubetto to avoid the Rustlers and reach the safety of Pioneerville.
+
+6. **The Victory**: Once back in Pioneerville, the children can celebrate their victory with a parade. They can program Cubetto to lead the parade, decorating him with accessories like a cowboy hat and bandana.
+
+This scenario combines the excitement of the Wild West with the educational benefits of programming, making learning fun and engaging for pre-school children.

@@ -1,0 +1,40 @@
+gemma-2-9b-it-GGUF	Parameters: {'world': 'knights and princesses', 'objects': 'Barbie dolls', 'task': 'enact a pursuit'}
+
+-------------------
+## The Knight's Quest
+
+**Ages:** 3-5
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto command blocks (forward, turn left, turn right)
+* Barbie dolls: a knight and a princess
+* A playmat or large sheet of paper to represent a castle and surrounding landscape
+
+**Story:**
+
+Once upon a time, a brave knight was tasked with rescuing a beautiful princess from a fearsome dragon! The princess is trapped in the highest tower of the castle, and the knight must navigate through the treacherous landscape to reach her.
+
+**Game Play:**
+
+1. **Set the Scene:**  Spread out your playmat and arrange the Barbie dolls. Place the princess doll in the highest tower of the castle and the knight doll at the castle gate.
+
+2. **Program the Knight:**  Children will work together to program Cubetto to guide the knight to the princess. They can use the command blocks to tell Cubetto to:
+
+    * **Forward:** Move the knight across the playmat.
+    * **Turn Left:** Change the knight's direction to the left.
+    * **Turn Right:** Change the knight's direction to the right.
+
+3. **The Chase:**  As Cubetto moves the knight, children can narrate the story, describing the knight's journey and any obstacles he might encounter. Encourage them to use their imagination and create exciting details about the landscape and the dragon!
+
+4. **Rescue Mission:**  When Cubetto reaches the princess, the children can celebrate the knight's success!
+
+**Variations:**
+
+* **Obstacle Course:**  Create obstacles on the playmat, such as rocks, trees, or a dragon's lair, that Cubetto must navigate around.
+* **Multiple Knights:**  Use multiple Cubetto robots to control different knights who are racing to rescue the princess.
+* **Princess Escape:**  Program the princess doll to move around the castle using a different toy or method, and have the knight chase her.
+
+
+This game encourages children to develop their spatial reasoning, problem-solving skills, and storytelling abilities while having fun with Cubetto and their favorite

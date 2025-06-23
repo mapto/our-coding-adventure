@@ -1,0 +1,30 @@
+Qwen2.5-7B-Instruct-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+Certainly! Here’s a fun and engaging game idea for preschool children using the Cubetto tangible programming toy, centered around a superhero theme with Hot Wheels cars:
+
+---
+
+**Superhero Battle with Cubetto and Hot Wheels Cars**
+
+Objective: To create a thrilling superhero battle using Cubetto and Hot Wheels cars, where children use only three command blocks: forward, turn left, and turn right.
+
+Materials:
+- Cubetto toy
+- Hot Wheels cars
+- A large play mat or a flat surface
+- Cubetto command blocks (forward, turn left, turn right)
+
+Instructions:
+1. **Setup**: Place Cubetto on the play mat and arrange Hot Wheels cars in a battle formation. Each car represents a different superhero, with unique abilities and challenges.
+2. **Programming**: Divide the children into teams, each controlling a different superhero. Each team must program Cubetto to navigate through the battle using only the three command blocks. For example, one team might program Cubetto to move forward, turn right, and then move forward again to avoid an obstacle (another car).
+3. **Battle**: Once all teams have programmed their Cubetto, they can start the battle. Each Cubetto will move across the play mat, trying to navigate around or through the Hot Wheels cars. The goal is to reach the finish line or a specific target point.
+4. **Strategy**: Encourage children to think strategically about their movements. They can use turns to avoid obstacles or to position Cubetto for an advantageous move. For instance, turning left might help Cubetto avoid a direct collision with another car.
+5. **Winning**: The team whose Cubetto reaches the finish line first or completes a specific task (like touching a target) wins the round. After each round, teams can switch roles or change their strategy.
+
+This game not only teaches basic programming concepts but also fosters teamwork, strategic thinking, and creativity. The superhero theme and Hot Wheels cars make the learning experience fun and engaging for preschool children.
+
+---
+
+This game combines the educational value of Cubetto with the excitement of a superhero

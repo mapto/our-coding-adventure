@@ -1,0 +1,33 @@
+Meta-Llama-3.1-8B-Instruct-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+**Superhero Rescue Mission with Cubetto and Hot Wheels**
+
+**Objective:** To create a fun and interactive game that encourages preschool children to use problem-solving skills and critical thinking while learning the basics of programming with Cubetto.
+
+**Game Description:**
+
+In this exciting game, children will become superheroes tasked with rescuing their friends from the clutches of the evil villain, "The Blocker." The Blocker has set up a series of obstacles using Hot Wheels cars and blocks, and it's up to our young superheroes to navigate through the challenges and reach their friends.
+
+**Gameplay:**
+
+1. Set up the game area with a series of Hot Wheels cars and blocks to create a challenging obstacle course.
+2. Divide the children into teams of 2-3 superheroes.
+3. Each team will receive a Cubetto robot and a set of command blocks (forward, turn left, and turn right).
+4. The objective is for the superheroes to program their Cubetto to navigate through the obstacle course and reach their friends, who are trapped behind the Hot Wheels cars.
+5. However, The Blocker has set up a series of challenges to hinder the superheroes' progress. For example, a Hot Wheels car might be placed on a steep incline, or a block might be used to block the Cubetto's path.
+6. The superheroes must use their problem-solving skills and critical thinking to program their Cubetto to overcome these challenges.
+7. The team that successfully rescues their friends and reaches the final destination wins.
+
+**Cubetto Command Blocks:**
+
+* **Forward:** Move the Cubetto forward one block.
+* **Turn Left:** Turn the Cubetto left by 90 degrees.
+* **Turn Right:** Turn the Cubetto right by 90 degrees.
+
+**Tips and Variations:**
+
+* To make the game more challenging, you can add more Hot Wheels cars and blocks to the obstacle course.
+* You can also add time limits or set up a series of challenges that the superheroes must complete before reaching their friends.
+* Enc

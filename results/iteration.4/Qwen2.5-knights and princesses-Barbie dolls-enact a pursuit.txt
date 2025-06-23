@@ -1,0 +1,10 @@
+Qwen2.5-7B-Instruct-GGUF	Parameters: {'world': 'knights and princesses', 'objects': 'Barbie dolls', 'task': 'enact a pursuit'}
+
+-------------------
+In this enchanting adventure, preschool children embark on a thrilling quest to rescue a Barbie doll-princess from a castle guarded by a mischievous dragon. The game is designed to be both fun and educational, using the Cubetto tangible programming toy to teach basic programming concepts. 
+
+The game begins with the children placing Cubetto on a map of the kingdom, where they must navigate through a series of obstacles to reach the castle. Using only three command blocks—forward, turn left, and turn right—they must program Cubetto to follow the path that leads to the dragon's lair. Along the way, they encounter various challenges, such as rivers and forests, which require strategic use of the command blocks to overcome.
+
+To make the game more engaging, children can use their imagination to create stories and scenarios. For example, they might decide that Cubetto is a brave knight on a quest to save the princess. As they guide Cubetto through the map, they can narrate the story, describing the journey and the obstacles Cubetto faces. This not only enhances their storytelling skills but also helps them understand the logic behind programming.
+
+The game encourages teamwork and problem-solving as children work together to program Cubetto effectively. By using just three command blocks, they learn the basics of sequential and conditional logic, essential skills for understanding more complex programming concepts in the future. The adventure is both a playful and educational experience, making learning about programming accessible and enjoyable for young children.

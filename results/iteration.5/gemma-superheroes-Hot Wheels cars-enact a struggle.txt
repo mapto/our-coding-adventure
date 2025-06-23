@@ -1,0 +1,38 @@
+gemma-2-9b-it-GGUF	{'world': 'superheroes', 'objects': 'Hot Wheels cars', 'task': 'enact a struggle'}
+
+-------------------
+##  Superhero Rescue Mission!
+
+**Get ready to save the day with Cubetto and your Hot Wheels superhero cars!**
+
+**The Story:**
+
+A villain has stolen all the city's cookies! Your superhero car needs to race through the city, dodging obstacles and using their super powers to reach the villain's lair and retrieve the cookies.
+
+**The Game:**
+
+1. **Set the Stage:** Create a city landscape using blocks, pillows, or toys. Place a Hot Wheels car representing your superhero in the starting position.
+
+2. **Program the Rescue:** Use Cubetto's command blocks to program your superhero car's journey:
+
+   * **Forward:**  Help your superhero car zoom forward to reach the first obstacle.
+   * **Turn Left/Right:**  Guide your car around obstacles like buildings, trees, or even a grumpy cat!
+   * **Forward:**  Keep moving forward, getting closer to the villain's lair!
+
+3. **The Final Showdown:**  When your superhero reaches the villain's lair, program them to turn left or right to face the villain.  
+
+4. **Victory!**  Your superhero car has saved the day!  Celebrate with a cheer and enjoy the delicious cookies!
+
+**Challenge:**
+
+* Can you program your superhero car to collect all the cookies along the way?
+* Can you create a more complex city landscape with more obstacles?
+* Can you program your superhero car to use different super powers, like flying or super speed?
+
+**Remember:**
+
+* Have fun and be creative! There are many ways to program your superhero car's rescue mission.
+* Encourage children to experiment and try different combinations of command blocks.
+* Celebrate their successes and help them learn from any mistakes.
+
+

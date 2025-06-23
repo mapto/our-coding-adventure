@@ -1,0 +1,20 @@
+Mistral-7B-Instruct-v0.3-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+ Title: Pirate Treasure Hunt with Cubetto
+
+Description: Embark on an exciting Pirate Treasure Hunt adventure with Cubetto! In this engaging game, preschool children will use Cubetto, Lego figures, and a pirate-themed island to find the hidden treasure.
+
+1. Set up the scene: Create a pirate-themed island using Lego blocks, complete with a treasure chest, pirate ships, and various obstacles.
+
+2. Introduce the characters: Place Cubetto as the brave pirate captain, and Lego figures as pirate crew members.
+
+3. The Challenge: The pirate captain (Cubetto) must navigate the island to find the treasure. Children will program Cubetto using only three command blocks: forward, turn left, and turn right.
+
+4. Objective: Guide Cubetto to the treasure chest by giving a series of instructions, such as "move forward 5 steps, turn left 90 degrees, move forward 3 steps, turn right 90 degrees, and continue until you reach the treasure chest."
+
+5. Encourage exploration: Allow children to experiment with different paths and problem-solving skills to find the treasure.
+
+6. Celebrate success: When the treasure is found, celebrate the teamwork and programming skills demonstrated by the children.
+
+This Pirate Treasure Hunt game encourages preschool children to develop essential programming skills while fostering creativity, collaboration, and problem-solving abilities.

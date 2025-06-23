@@ -1,0 +1,14 @@
+Mistral-7B-Instruct-v0.3-GGUF	Parameters: {'world': 'Wild West', 'objects': 'Barbie dolls', 'task': 'rescue someone'}
+
+-------------------
+ Title: Cubetto's Wild West Rescue Adventure
+
+Embark on an exciting Wild West adventure with Cubetto, the friendly wooden robot, and a group of imaginative preschoolers! In this captivating game, Cubetto finds himself in a perilous situation in the dusty frontier town, where Barbie dolls have been captured by the notorious bandit, Sheriff Callie.
+
+The children's mission is to guide Cubetto through the town, navigating the saloon, the general store, and the sheriff's office, to rescue their Barbie friends. The game encourages problem-solving, spatial reasoning, and storytelling skills.
+
+Using only three Cubetto command blocks, children can program Cubetto to move forward, turn left, and turn right. By combining these simple commands, they can create complex paths to navigate the town and overcome obstacles.
+
+For example, to reach the saloon, children might program Cubetto to move forward, turn left to avoid the cactus, and then turn right to reach the saloon doors. Once inside, they can use their imagination to find their Barbie friend, who might be hidden behind a poker table or trapped in a barrel.
+
+With each successful rescue, the children's confidence grows, and they can take on more challenging paths and obstacles. This engaging and educational game not only helps children develop essential programming skills but also fosters creativity, collaboration, and a love for learning. So, gather your little cowpokes and embark on a Wild West adventure with Cubetto today!

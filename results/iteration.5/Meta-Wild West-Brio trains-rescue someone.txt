@@ -1,0 +1,25 @@
+Meta-Llama-3.1-8B-Instruct-GGUF	{'world': 'Wild West', 'objects': 'Brio trains', 'task': 'rescue someone'}
+
+-------------------
+**Wild West Rescue Mission**
+
+**Objective:** Help the brave cowboy rescue his friend, "Buckaroo Bill," who has been kidnapped by the mischievous outlaw, "Blackheart Bill." The only way to reach Buckaroo Bill is by navigating through the Wild West terrain using the Cubetto programming toy and Brio trains.
+
+**Game Description:**
+
+Imagine a dusty Wild West town, complete with Brio trains chugging along the tracks and cowboys and outlaws roaming the streets. Buckaroo Bill has been taken by Blackheart Bill and is being held captive in a nearby saloon. The brave cowboy needs your help to rescue his friend.
+
+Using the Cubetto programming toy, you will create a path for the Brio train to follow, navigating through the Wild West terrain to reach the saloon where Buckaroo Bill is being held. You will use three essential Cubetto command blocks to program the train's journey:
+
+1. **Forward**: Move the train forward one block at a time, carefully planning each step to avoid obstacles and outlaws.
+2. **Turn Left**: Change direction by turning the train left, allowing you to explore new paths and reach hidden areas.
+3. **Turn Right**: Change direction by turning the train right, helping you to avoid danger and find the safest route.
+
+**Gameplay:**
+
+1. Start by placing the Brio train at the beginning of the Wild West terrain.
+2. Use the Cubetto command blocks to program the train's journey, carefully planning each step to reach the saloon where Buckaroo Bill is being held.
+3. As you navigate through the terrain, watch out for obstacles like rocks, cacti, and outlaws who might try to stop you.
+4. Use the **Forward** command block to move the train forward one block at a time, carefully planning each step.
+5. When you need to change direction, use the **Turn Left** or **Turn Right** command block to adjust the train's path.
+6. As you approach the saloon, use the Cubetto command blocks to program the train

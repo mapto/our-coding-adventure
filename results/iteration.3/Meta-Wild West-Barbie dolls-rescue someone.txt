@@ -1,0 +1,34 @@
+bartowski/Meta-Llama-3.1-8B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+**Wild West Rescue**
+
+**Objective:** Help Barbie rescue her friend, a cowboy, from the clutches of the evil outlaw, Black Jack.
+
+**Scenario:**
+
+Imagine you are in the Wild West town of Red Rock. Black Jack has kidnapped the cowboy and is hiding him in his saloon. Barbie needs your help to rescue her friend.
+
+**Setup:**
+
+1. Place the Cubetto in the town square.
+2. Set up the saloon with a small obstacle or a block to represent the entrance.
+3. Place the cowboy doll near the saloon entrance.
+4. Place Black Jack's doll near the saloon, but not too close to the entrance.
+5. Place Barbie's doll near the town square, ready to start her rescue mission.
+
+**Instructions:**
+
+1. Explain the scenario to the children and demonstrate how to use the Cubetto.
+2. Ask the children to help Barbie rescue the cowboy by programming the Cubetto to navigate through the town and reach the saloon.
+3. The children should use the three Cubetto command blocks: forward, turn left, and turn right to create a sequence of instructions.
+4. Encourage the children to think critically about the path the Cubetto should take to reach the saloon and avoid obstacles.
+5. As the children program the Cubetto, ask them to describe their plan and what they hope to achieve.
+6. Once the Cubetto reaches the saloon, the children should use the Cubetto to "rescue" the cowboy by moving it to the entrance of the saloon.
+7. Celebrate the children's success and ask them to reflect on their problem-solving skills and how they used the Cubetto to achieve their goal.
+
+**Variations:**
+
+* To make it more challenging, add more obstacles or a "river" that the Cubetto must cross to reach the saloon.
+* To make it easier, provide a simpler path for the Cubetto to follow or add more guidance on how to program the Cubetto.
+* To extend the scenario, ask the children to create a new challenge, such

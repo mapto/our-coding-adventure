@@ -1,0 +1,14 @@
+Mistral-7B-Instruct-v0.3-GGUF	{'world': 'Wild West', 'objects': 'Brio trains', 'task': 'rescue someone'}
+
+-------------------
+ Title: Cubetto's Wild West Rescue Mission
+
+Embark on an exciting adventure with Cubetto, the friendly wooden robot, in the thrilling Wild West landscape! This captivating game, designed for preschool children, combines the charm of Brio trains with the fundamentals of programming, using Cubetto's tangible programming blocks.
+
+In this Wild West-themed scenario, Cubetto finds himself in a small frontier town, where a fellow robot friend has been captured by bandits and is being held in a distant train station. The objective is to rescue the friend by guiding Cubetto to the train station using only three essential command blocks: forward, turn left, and turn right.
+
+To begin, children place the forward block on Cubetto's programming deck, sending him on a journey across the Wild West landscape. As Cubetto moves forward, he encounters various obstacles such as cacti, tumbleweeds, and even a rattlesnake or two. To navigate around these obstacles, children use the turn left and turn right blocks to steer Cubetto safely along his path.
+
+Upon reaching the train station, Cubetto must carefully maneuver around the tracks using the Brio train set, avoiding collisions with the oncoming steam locomotive. Once at the train station, Cubetto can free his friend and return together to the safety of the frontier town, where they can continue their adventures in the Wild West.
+
+This engaging game not only introduces young learners to the basics of programming but also encourages problem-solving, spatial reasoning, and storytelling skills. With Cubetto's Wild West Rescue Mission, children can explore the world of coding while having fun in a captivating Wild West setting.

@@ -1,0 +1,36 @@
+Qwen2.5-7B-Instruct-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+Sure! Here’s a fun and engaging game for preschool children using the Cubetto tangible programming toy, themed around knights and princesses. This game will involve Barbie dolls and will use only three command blocks: forward, turn left, and turn right.
+
+### Game Title: "Knightly Pursuit: Save the Princess!"
+
+#### Objective:
+Children will use Cubetto to program a knight to chase and save a princess from a dragon. The game will involve storytelling, problem-solving, and basic programming concepts.
+
+#### Materials:
+- Cubetto toy
+- Command blocks (forward, turn left, turn right)
+- Barbie dolls (princess and dragon)
+- A play mat or a large piece of paper to represent the game area
+- Story cards or a storybook with illustrations
+- Optional: a small crown or a treasure chest for the princess
+
+#### Instructions:
+
+1. **Introduction:**
+   - Introduce the story: "Once upon a time, a brave knight was on a quest to save a princess from a dragon. The knight needs your help to find her and save her from the dragon's lair."
+
+2. **Setting Up the Game:**
+   - Place the play mat or large paper on the floor.
+   - Arrange the Barbie dolls: place the princess in a safe spot (e.g., a castle) and the dragon in a different spot (e.g., a cave).
+   - Explain that the knight needs to find the princess and save her from the dragon.
+
+3. **Programming the Knight:**
+   - Explain that the knight will use Cubetto to move forward, turn left, or turn right to find the princess.
+   - Show the children how to place the command blocks (forward, turn left, turn right) on the Cubetto.
+   - Demonstrate a simple program: "Let's make the knight move forward, turn right, and move forward again to find the princess."
+
+4. **Game Play:**
+   - Divide the children into small groups or pairs.
+   - Give each group

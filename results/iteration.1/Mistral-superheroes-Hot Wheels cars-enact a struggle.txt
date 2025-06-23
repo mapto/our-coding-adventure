@@ -1,0 +1,28 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle.
+
+A:
+ Title: Superhero Car Chase with Cubetto and Hot Wheels
+
+Scenario:
+
+In a bustling city, the peaceful citizens are under threat from the evil villain, "The Speedster," who is causing chaos with his fleet of Hot Wheels cars. The city's superheroes, Cubetto and his sidekick, are determined to stop The Speedster and restore peace.
+
+Setup:
+
+1. Set up the Cubetto playmat with various city landscapes, including buildings, roads, and obstacles.
+2. Place the Cubetto robot at the starting point, facing a road where Hot Wheels cars will be placed.
+3. Set up Hot Wheels launchers at different points along the road, each launching a car towards Cubetto.
+4. Place a goal at the end of the road, representing the safe zone where the superheroes need to guide Cubetto.
+
+Instructions:
+
+1. Explain to the children that Cubetto is the superhero who can navigate the city using his programming skills. The children will help Cubetto by programming him to move, turn, and avoid obstacles.
+2. Instruct the children to program Cubetto to move forward and turn left to reach the first Hot Wheels launcher. Once Cubetto reaches the launcher, a Hot Wheels car will be launched. The children must then program Cubetto to avoid the car and continue towards the goal.
+3. Repeat the process for multiple launchers, increasing the complexity of the program as the children progress. For example, they may need to program Cubetto to turn right after avoiding a car, or to move backwards to dodge an obstacle.
+4. Once Cubetto reaches the goal, the superheroes have successfully stopped The Speedster, and the city is safe once again.
+
+Extension:
+
+1. Encourage the children to create their own challenges, such as programming Cubetto to chase after The Speedster's cars or to collect power-ups (represented by other Hot Wheels cars) along the way.
+2. Discuss the importance of teamwork, problem-solving, and programming skills in overcoming challenges and achieving goals.
+3

@@ -1,0 +1,16 @@
+Mistral-7B-Instruct-v0.3-GGUF	{'world': 'pirates', 'objects': 'Lego figures', 'task': 'find a treasure'}
+
+-------------------
+ Title: Cubetto's Pirate Treasure Hunt Adventure
+
+Embark on an exciting pirate-themed adventure with Cubetto, the friendly wooden robot, designed specifically for preschool children. In this captivating game, Cubetto and his Lego pirate crew set sail on a quest to find a hidden treasure!
+
+The scene is set on a vibrant Lego island, teeming with pirate-themed structures and puzzles. The children's mission is to guide Cubetto through a series of challenges to find the treasure.
+
+To control Cubetto, children use the Cubetto programming toy, which consists of three command blocks: forward, turn left, and turn right. By arranging these blocks in various combinations, children can program Cubetto to navigate the island, overcoming obstacles and solving puzzles.
+
+As Cubetto moves forward, he navigates the island, encountering various challenges such as pirate caves, treasure maps, and obstacles like cannonballs and plank gaps. By turning left or right, children can help Cubetto avoid these obstacles and find the correct path to the treasure.
+
+The treasure chest, when found, opens to reveal a collection of Lego pirate accessories, rewarding the children for their successful programming and problem-solving skills. This game not only fosters creativity and logical thinking but also introduces young minds to the basics of programming in a fun and engaging way.
+
+Cubetto's Pirate Treasure Hunt Adventure is more than just a game; it's an interactive learning experience that encourages children to explore, create, and solve problems, all while having a swashbuckling good time!

@@ -1,0 +1,34 @@
+Meta-Llama-3.1-8B-Instruct-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+**Treasure Hunt Adventure with Cubetto**
+
+**Objective:** Help the pirates find the hidden treasure using Cubetto's simple programming commands.
+
+**Materials:**
+
+* Cubetto programming toy
+* Lego pirate figures
+* A treasure chest (or a small box)
+* A pirate-themed obstacle course (e.g., a small island, a bridge, or a cave)
+
+**Instructions:**
+
+1. Set up the pirate-themed obstacle course in the classroom or play area. Place the treasure chest at the end of the course.
+2. Introduce the Cubetto programming toy and explain that the children will use it to help the pirates find the treasure.
+3. Demonstrate how to use the Cubetto command blocks: forward, turn left, and turn right. Explain that the children will need to program the Cubetto to navigate through the obstacle course to reach the treasure.
+4. Divide the children into small groups and give each group a Lego pirate figure. Explain that they will need to work together to program the Cubetto to find the treasure.
+5. Challenge the children to program the Cubetto to reach the treasure using the three command blocks: forward, turn left, and turn right. Encourage them to experiment and try different combinations of commands.
+6. As the children program the Cubetto, ask them to describe their plan and explain why they chose a particular sequence of commands.
+7. Once the Cubetto reaches the treasure, congratulate the children on their success and ask them to reflect on what they learned about programming and problem-solving.
+
+**Variations:**
+
+* To make it more challenging, add obstacles or "pirate traps" that the Cubetto needs to avoid.
+* Encourage the children to create their own pirate-themed obstacle course and challenge their peers to find the treasure.
+* Use the Cubetto to create a pirate-themed story, where the children take turns programming the Cubetto to navigate through a series of challenges and obstacles.
+
+**Assessment:**
+
+* Observe the children's ability to use the Cubetto command blocks to solve a problem

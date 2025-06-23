@@ -1,0 +1,34 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit.
+
+A:
+**Scenario: "The Brave Knight's Rescue Mission"**
+
+**Objective:** Help the brave knight, Sir Cubetto, rescue the beautiful Princess Barbie from the clutches of the evil dragon, using the Cubetto tangible programming toy.
+
+**Storyline:** The kingdom is in chaos. The evil dragon has kidnapped Princess Barbie, and the brave knight, Sir Cubetto, has been tasked with rescuing her. The princess is being held in a dark castle, surrounded by the dragon's minions. Sir Cubetto must navigate through the kingdom, avoiding obstacles and collecting helpful items to reach the princess before it's too late.
+
+**Setup:**
+
+1. Create a kingdom terrain using cardboard boxes, paper, or other materials. Set up a dark castle in the center, where the princess is being held.
+2. Place the Barbie doll in the castle, representing the princess.
+3. Set up obstacles, such as cardboard boxes or paper obstacles, to block Sir Cubetto's path.
+4. Place helpful items, such as a sword or a shield, near the kingdom terrain to aid Sir Cubetto in his quest.
+
+**Cubetto Programming:**
+
+1. Children will use the Cubetto blocks to create a program that will guide Sir Cubetto through the kingdom.
+2. The program should include:
+	* Moving Sir Cubetto to the kingdom terrain.
+	* Collecting the sword and shield to aid in the rescue mission.
+	* Navigating through obstacles to reach the castle.
+	* Rescuing the princess (Barbie doll) from the castle.
+3. Children can experiment with different programs to see how they affect the outcome of the rescue mission.
+
+**Challenges and Extensions:**
+
+1. Add more obstacles or challenges, such as a moat or a maze, to make the rescue mission more difficult.
+2. Introduce new characters, such as a wise old wizard or a mischievous imp, to aid or hinder Sir Cubetto's progress.
+3. Have children work in teams to create a program that will rescue the princess together.
+4. Encourage children to think creatively and come up with their own scenarios and challenges for Sir Cubetto.
+
+**Learning Outcomes:

@@ -1,0 +1,24 @@
+OLMo-2-1124-7B-Instruct-GGUF	{'world': 'superheroes', 'objects': 'Hot Wheels cars', 'task': 'enact a struggle'}
+
+-------------------
+**Cubetto and the Superhero Adventure: A Hot Wheels Quest**
+
+In the vibrant world of Preschool City, a thrilling adventure awaits young heroes eager to learn the basics of coding through the magical Cubetto. This half-page description introduces a captivating game scenario where preschoolers can steer their Hot Wheels cars with the power of Cubetto commands, embarking on a superhero mission to save the city from the clutches of the villainous Dr. Reverse.
+
+**The Setup:**
+
+The game begins in the bustling Preschool City, where colorful buildings and friendly characters line the streets. At the heart of the city, a giant, menacing machine, controlled by Dr. Reverse, threatens to reverse the flow of time itself, turning day into night and peace into chaos. Our young heroes, each with their own Hot Wheels car, must navigate through this perilous environment to reach the control room and stop Dr. Reverse.
+
+**The Cubetto Commands:**
+
+To navigate the city and defeat Dr. Reverse, children will use only three essential Cubetto command blocks: **forward**, **turn left**, and **turn right**. These commands are the keys to steering their Hot Wheels cars through the intricate cityscape, dodging obstacles, and making critical decisions.
+
+**The Adventure:**
+
+1. **The Launch:** Children start at the city's central park, where they must guide their Hot Wheels car forward through a maze of trees and benches. The first challenge awaits: a small pond that requires a left turn to circumvent.
+
+2. **The Obstacle Course:** As they approach the city outskirts, children encounter a series of ramps and obstacles designed to test their programming skills. A combination of forward movements and precise turns is needed to clear the course and reach the next area.
+
+3. **The Tunnel of Darkness:** The path leads into a dark tunnel, where visibility is low. Children must rely on their memory of the commands and trust their programming skills to navigate through the twists and turns, emerging safely on the other side.
+
+4. **The Final Approach:** The control room is in sight, but it's guarded by a complex

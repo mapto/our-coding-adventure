@@ -1,0 +1,28 @@
+gemma-2-9b-it-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+## Superhero Rescue Mission!
+
+**Objective:** Help your superhero car save the day!
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto command blocks (forward, turn left, turn right)
+* Hot Wheels cars (one for each child)
+* Imaginary villains and obstacles!
+
+**Instructions:**
+
+1. **Set the scene:**  Each child chooses a superhero car and imagines a villain has trapped a helpless citizen (another Hot Wheels car). 
+2. **Program the rescue:** Using only forward, turn left, and turn right blocks, children program Cubetto to navigate their superhero car to the trapped citizen. 
+3. **Obstacle course:**  Create a simple obstacle course with blocks or toys. Children must program Cubetto to avoid obstacles and reach the trapped citizen.
+4. **Superhero showdown:**  Once Cubetto reaches the trapped citizen, children can act out the superhero rescuing the citizen!
+
+**Extension:**
+
+*  Challenge children to program Cubetto to collect other "rescued" cars along the way.
+*  Introduce new command blocks like "repeat" to create more complex rescue missions.
+
+
+This game encourages spatial reasoning, problem-solving, and creative storytelling while introducing basic programming concepts in a fun and engaging way. 

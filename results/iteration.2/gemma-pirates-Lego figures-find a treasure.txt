@@ -1,0 +1,54 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure.
+
+A:
+##  Ahoy, Mateys! Treasure Hunt with Cubetto!
+
+**Scenario:**
+
+Captain Blackheart has hidden his treasure chest somewhere on the pirate island!  You and your crew (Lego pirate figures) need to use Cubetto to find it!
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto board
+* Lego pirate figures
+* Lego blocks to build a simple island landscape (optional)
+* Treasure chest (can be a small box or a Lego creation)
+
+**Instructions:**
+
+1. **Set the Stage:**
+
+   * Build a simple island landscape with Lego blocks, or use a flat surface as your island.
+   * Place the treasure chest somewhere hidden on the island.
+   * Introduce the Lego pirate figures and explain they are your crew.
+
+2. **The Mission:**
+
+   * Tell the children Captain Blackheart has hidden his treasure chest somewhere on the island.
+   * Explain that Cubetto is their trusty robot navigator and they need to program him to find the treasure.
+
+3. **Programming Cubetto:**
+
+   * Show the children how to use the Cubetto blocks to program simple movements: forward, backward, turn left, turn right.
+   * Encourage them to experiment and try different combinations of blocks to move Cubetto around the island.
+
+4. **The Treasure Hunt:**
+
+   * Let the children program Cubetto to explore the island.
+   * Guide them to think about the best path to take to find the treasure.
+   * Encourage them to use their pirate figures to "search" along the way.
+
+5. **Victory!**
+
+   * When Cubetto reaches the treasure chest, celebrate!
+   * Let the children open the treasure chest and reveal the hidden treasure (can be small toys, stickers, or even a pirate flag).
+
+**Variations:**
+
+* **Obstacles:** Add Lego obstacles to the island, like rocks or a pirate ship, to make the treasure hunt more challenging.
+* **Clues:** Hide clues around the island that the children need to find before they can program Cubetto to the treasure.
+* **Multiple Treasures:** Hide multiple treasure chests with different treasures inside.
+
+
+This scenario allows children to learn about programming concepts in a fun and engaging way while also developing

@@ -1,0 +1,34 @@
+Meta-Llama-3.1-8B-Instruct-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+**Game Title: "The Brave Knight's Rescue"**
+
+**Objective:** To create a fun and interactive storytelling experience using Cubetto, where preschool children can use their problem-solving skills to help a brave knight rescue a princess from a dragon's lair.
+
+**Materials:**
+
+* Cubetto programming toy
+* Barbie dolls (princess and knight)
+* A simple obstacle course or a designated play area
+* A small toy dragon (optional)
+
+**Game Description:**
+
+In this exciting game, the children will take on the role of a brave knight who must rescue a princess from a dragon's lair. The princess will be represented by a Barbie doll, and the knight will also be a Barbie doll. The dragon's lair will be a designated play area or an obstacle course.
+
+**Gameplay:**
+
+1. The children will start by placing the princess Barbie doll in the dragon's lair, and the knight Barbie doll at the entrance of the lair.
+2. The children will use the Cubetto programming toy to create a sequence of commands to help the knight navigate through the lair and reach the princess.
+3. The three Cubetto command blocks that will be used are:
+	* Forward: to move the knight one step closer to the princess
+	* Turn left: to change direction and avoid obstacles
+	* Turn right: to change direction and reach the princess
+4. The children will need to use their problem-solving skills to create a sequence of commands that will help the knight reach the princess without getting stuck or running into obstacles.
+5. As the children create their sequence of commands, they can use the Cubetto to test their solution and see if the knight can reach the princess.
+6. If the knight successfully reaches the princess, the children can celebrate their success and try to create a new sequence of commands to make the knight's journey even more challenging.
+
+**Tips and Variations:**
+
+* To make the game more challenging, you can add obstacles such as small blocks or toys that the knight

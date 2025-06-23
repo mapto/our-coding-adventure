@@ -1,0 +1,21 @@
+OLMo-2-1124-7B-Instruct-GGUF	{'world': 'Wild West', 'objects': 'Brio trains', 'task': 'rescue someone'}
+
+-------------------
+**Title:** Wild West Rescue Adventure with Cubetto and Brio Trains
+
+**Game Overview:**
+Embark on an exciting Wild West adventure with Cubetto, the friendly robot, and Brio trains, where young adventurers must navigate through treacherous terrain to rescue a lost prospector. This engaging game is designed for preschool children, combining the tactile joy of Cubetto's physical programming with the imaginative world of the Wild West. With just three essential commands—forward, turn left, and turn right—children will learn basic programming concepts while saving the day.
+
+**Setting:**
+The game unfolds in the rugged, picturesque landscape of the Wild West. The lost prospector is stranded near a steep canyon, surrounded by rocky outcrops and a raging river. To reach him, players must guide Cubetto along a winding path that weaves through this challenging environment, using Brio trains to transport him across various obstacles.
+
+**Objective:**
+The ultimate goal is to safely escort Cubetto to the prospector's location, ensuring he is unharmed and returned to civilization. Along the way, children will encounter obstacles such as steep cliffs, narrow bridges, and fast-flowing rivers that can only be crossed with the help of Brio trains.
+
+**Gameplay:**
+1. **Setup:** Begin by setting up the game area with Brio tracks that form a winding path leading towards the prospector. Place Cubetto at the starting point, and position the prospector at the end of the track.
+
+2. **Programming with Cubetto:**
+   - **Command 1: Forward (F)** - Cubetto must move along the track. Players will use this command the most, guiding Cubetto from one section of the track to another.
+   - **Command 2: Turn Left (L)** - Cubetto needs to make sharp turns to navigate around obstacles. Children will learn to plan ahead, ensuring Cubetto can make these turns smoothly.
+   - **Command 3: Turn Right (R)** - Similar to the left turn, this command helps Cubetto change direction when necessary, such as when approaching a fork in the track.

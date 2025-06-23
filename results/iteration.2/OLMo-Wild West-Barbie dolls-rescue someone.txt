@@ -1,0 +1,37 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone.
+
+A:
+**Title: The Great Escape: Cubetto's Wild West Adventure**
+
+**Scenario Setup:**
+
+* **Setting:** The Wild West, a vast and untamed landscape filled with rolling hills, rocky outcrops, and a small, isolated frontier town.
+
+* **Characters:**
+  - **Cubetto:** The brave robot explorer with a heart of gold.
+  - **Barbie Dolls:** The townsfolk in distress, including a brave sheriff, a kind doctor, and a young girl who has been kidnapped by the bandits.
+  - **Bandits:** The villains of the story, led by the notorious Black Bart.
+
+* **Objective:** Cubetto must navigate through the Wild West, rescue the young girl, and restore peace to the town.
+
+**How to Play:**
+
+1. **Initial Setup:**
+   - Place Cubetto at the entrance of the frontier town.
+   - Scatter various obstacles around the map (hills, rocks, rivers) that Cubetto must navigate.
+   - Use the Cubetto programming blocks to create a path that leads Cubetto through the town and towards the bandit hideout.
+
+2. **The Kidnapping:**
+   - Narrate the story: The bandits have kidnapped the young girl and are holding her captive in their hideout, located at the far end of the map.
+   - Barbie dolls act out the distress, calling for Cubetto's help.
+
+3. **Programming Challenge:**
+   - Children must program Cubetto to navigate through the obstacles, avoiding pitfalls and reaching the hideout in time.
+   - They can use commands like "move forward," "turn left," "turn right," "stop," and "go straight" to create a path.
+
+4. **Rescue Mission:**
+   - Once Cubetto reaches the hideout, children must program him to enter and confront the bandits.
+   - They can use a sequence of commands to make Cubetto interact with the bandits (e.g., "move forward," "turn left," "pick up item," "move forward").
+
+5. **Rescue the Kidnapped Girl:**
+   - Children must program Cubetto

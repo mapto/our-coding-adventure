@@ -1,0 +1,47 @@
+bartowski/gemma-2-9b-it-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+## The Knight's Quest
+
+**Story:**
+
+Once upon a time, there was a brave knight named Sir Cubetto. He loved his princess, Princess Barbie, very much. One day, a mischievous dragon stole Princess Barbie away! Sir Cubetto must use his courage and his trusty robot friend, Cubetto, to rescue her!
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto command blocks (forward, turn left, turn right)
+* Barbie doll (Princess Barbie)
+* Another doll or toy (the dragon)
+* A playmat or large sheet of paper to represent the castle grounds
+
+**Scenario:**
+
+1. **Setting the Stage:**
+
+   * Place Princess Barbie in a corner of the playmat, representing her captured tower.
+   * Place the dragon doll somewhere else on the playmat, representing its lair.
+
+2. **The Quest Begins:**
+
+   * Explain to the children that Sir Cubetto needs to find Princess Barbie.
+   * Have the children program Cubetto to move forward until it reaches the dragon's lair.
+
+3. **Facing the Dragon:**
+
+   * Once Cubetto reaches the dragon's lair, explain that the dragon is blocking the way.
+   * Have the children program Cubetto to turn left and then forward to go around the dragon.
+
+4. **Rescuing the Princess:**
+
+   * Finally, have the children program Cubetto to move forward until it reaches Princess Barbie.
+   * Celebrate Sir Cubetto's success in rescuing the princess!
+
+**Extension Activities:**
+
+* **Obstacle Course:** Create an obstacle course for Cubetto to navigate, using blocks, toys, or other objects.
+* **Different Paths:** Explore different programming sequences to reach Princess Barbie.
+* **Storytelling:** Encourage children to create their own stories about Sir Cubetto and Princess Barbie.
+
+
+This scenario allows children to learn basic programming concepts while engaging in imaginative play. It also encourages problem-solving and spatial reasoning skills.

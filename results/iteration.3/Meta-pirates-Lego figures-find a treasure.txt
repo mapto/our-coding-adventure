@@ -1,0 +1,48 @@
+bartowski/Meta-Llama-3.1-8B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+**Pirate's Treasure Hunt**
+
+**Age Group:** Preschool children (3-5 years)
+
+**Objective:** Help the pirate find the hidden treasure using Cubetto commands.
+
+**Materials:**
+
+* Cubetto programming toy
+* Lego pirate figures (at least 2)
+* Lego pirate ship
+* Lego island with a small cave (treasure location)
+* Small toy treasure (e.g., a small chest or a gold coin)
+
+**Setup:**
+
+1. Place the Lego island with the cave in the center of the play area.
+2. Position the Lego pirate ship near the island.
+3. Place the Lego pirate figures near the ship.
+4. Hide the small toy treasure in the cave.
+
+**Scenario:**
+
+Captain Blackbeak and his trusty pirate friend, Barnaby, are on a mission to find the hidden treasure. They have a map that leads them to the island, but they need your help to navigate through the jungle using Cubetto.
+
+**Instructions:**
+
+1. Place the Cubetto in front of the pirate ship.
+2. Explain to the children that they will use Cubetto to help Captain Blackbeak and Barnaby find the treasure.
+3. Demonstrate how to use the Cubetto command blocks: forward, turn left, and turn right.
+4. Ask the children to program Cubetto to help the pirates reach the island.
+5. As the children program, ask them to describe what they are doing and why they are making those decisions.
+6. Once the pirates reach the island, ask the children to program Cubetto to help them navigate through the jungle and find the treasure.
+7. Encourage the children to experiment and try different paths to find the treasure.
+
+**Challenge:**
+
+* Can the children program Cubetto to help the pirates find the treasure in the fewest number of steps?
+* Can they find a way to avoid obstacles in the jungle?
+
+**Assessment:**
+
+* Observe the children's problem-solving skills and ability to think critically.
+* Evaluate their understanding of sequencing and programming concepts.
+* Encourage the children to reflect

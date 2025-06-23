@@ -1,0 +1,34 @@
+bartowski/Mistral-7B-Instruct-v0.3-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+ Title: Pirate Treasure Hunt Adventure
+
+Setting: A pirate-themed Lego island filled with colorful blocks, pirate ships, and treasure chests.
+
+Characters:
+1. Cubetto (the main character, a friendly pirate robot)
+2. Lego pirate figures (children's play pieces)
+3. A mischievous parrot (a small Lego figure)
+4. A hidden treasure (a small Lego treasure chest)
+
+Objective: Guide Cubetto to find the hidden treasure by giving him instructions using the forward, turn left, and turn right command blocks.
+
+Story:
+
+1. Introduction:
+   Welcome the children to the Pirate Treasure Hunt Adventure! Introduce Cubetto, the friendly pirate robot, who needs their help to find the hidden treasure. Explain that Cubetto can move forward, turn left, and turn right to navigate the island.
+
+2. The Island:
+   Set up the Lego island with various obstacles, such as pirate ships, treasure chests, and the parrot. Place the hidden treasure at a specific location on the island.
+
+3. The Hunt Begins:
+   Ask the children to give Cubetto instructions to move around the island. Encourage them to use the forward, turn left, and turn right command blocks to help Cubetto avoid obstacles and find the treasure.
+
+4. The Parrot's Clues:
+   Throughout the game, the mischievous parrot will drop clues (e.g., a red Lego brick, a yellow Lego brick, etc.) that the children can use to help Cubetto find the treasure more easily.
+
+5. Finding the Treasure:
+   When Cubetto reaches the hidden treasure, the children can celebrate and take turns giving Cubetto instructions to return to the starting point.
+
+6. Conclusion:
+   Congratulate the children on their successful treasure hunt and encourage them to continue exploring and programming Cubetto to solve more challenges.

@@ -1,0 +1,38 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone.
+
+A:
+Certainly! Here's a fun scenario for pre-school children to play with Cubetto, incorporating a Wild West theme, Barbie dolls, and a rescue mission:
+
+### Scenario: "The Wild West Rescue Mission"
+
+#### Materials Needed:
+- Cubetto toy
+- Cubetto's map (programmable board)
+- Cubetto's blocks (programmable tiles)
+- A set of Wild West-themed play mats (e.g., a desert, a saloon, a train station, a mine)
+- Barbie dolls (or other small figurines)
+- Small tokens or markers to represent obstacles or treasures
+- A storybook or a set of story cards with the Wild West theme
+
+#### Objective:
+Children will use Cubetto to navigate through a Wild West-themed map to rescue a Barbie doll from a dangerous situation.
+
+#### Steps:
+
+1. **Introduction:**
+   - Introduce the story: "Once upon a time, in the Wild West, a brave cowboy named Jack was on a mission to rescue his friend, a little girl named Lily, who was lost in the desert. Jack needs your help to find her and bring her back home safely."
+
+2. **Setting Up the Map:**
+   - Place the Wild West-themed play mats on the floor or a large table.
+   - Use the storybook or story cards to guide the children in setting up the map. For example, place the desert mat first, then the saloon, and so on.
+   - Add tokens or markers to represent obstacles (e.g., cacti, bandits) or treasures (e.g., water, gold).
+
+3. **Introducing Cubetto:**
+   - Explain that Cubetto is a special robot who can help Jack navigate through the Wild West.
+   - Show the children how to program Cubetto using the blocks (programmable tiles) on the map.
+
+4. **The Rescue Mission:**
+   - Place the Barbie doll (Lily) on the map in a location that needs to be rescued.
+   - Guide the children to program Cubetto to move through the map to find Lily.
+   - Encourage them to use the blocks to create a path that avoids obstacles and leads to Lily.
+  

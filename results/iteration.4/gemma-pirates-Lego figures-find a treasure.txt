@@ -1,0 +1,36 @@
+gemma-2-9b-it-GGUF	Parameters: {'world': 'pirates', 'objects': 'Lego figures', 'task': 'find a treasure'}
+
+-------------------
+## Ahoy, Mateys! Treasure Hunt with Cubetto!
+
+**Get ready for a swashbuckling adventure with Cubetto and your Lego pirates!**
+
+A fearsome pirate captain has hidden his treasure somewhere on the high seas (your living room floor!).  Your mission, young buccaneers, is to use Cubetto to guide your Lego pirate to the buried treasure!
+
+**Here's what you'll need:**
+
+* Cubetto robot
+* Cubetto command blocks: Forward, Turn Left, Turn Right
+* Lego pirate figures
+* A treasure chest (or a box decorated like one!)
+* A map (optional, but fun!)
+
+**The Game:**
+
+1. **Set the Stage:**  Create a "sea" on the floor using blankets, pillows, or even just a large piece of paper. Place your Lego pirate figure on the starting point. Hide the treasure chest somewhere on the "sea."
+
+2. **Plan Your Route:**  Look at the "sea" and think about how your pirate can reach the treasure.  Will they need to turn left, right, or go straight?  
+
+3. **Program Cubetto:**  Use the command blocks to program Cubetto to follow your pirate's path. Remember, Cubetto only understands "Forward," "Turn Left," and "Turn Right"!
+
+4. **Let's Go!**  Place Cubetto on the starting point and watch as it follows your instructions!  Will it find the treasure?
+
+**Tips:**
+
+* **Start Simple:**  Begin with a short route and gradually make it more complex.
+* **Use a Map:**  Draw a simple map of the "sea" to help you plan your route.
+* **Experiment:**  Don't be afraid to try different combinations of commands!
+* **Have Fun!**  The most important thing is to enjoy the adventure!
+
+
+This game helps children develop spatial reasoning, problem-solving skills, and an understanding of basic programming concepts in a fun and engaging way.  

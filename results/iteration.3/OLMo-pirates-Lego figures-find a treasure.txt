@@ -1,0 +1,36 @@
+bartowski/OLMo-2-1124-7B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+**Title: The Pirate Adventure**
+
+**Setting:**
+The sunny deck of a small, wooden pirate ship bobbing gently on the turquoise waters of a crystal-clear ocean. The sky is dotted with fluffy white clouds, and the gentle breeze carries the salty scent of adventure. A small, deserted island lies in the distance, promising hidden treasures.
+
+**Characters:**
+- **Captain Redbeard:** A brave and adventurous pirate with a red beard and a wide-brimmed hat.
+- **First Mate Lily:** A clever and resourceful girl with a map in hand.
+- **The Crew:** A group of Lego pirate figures, each with their own unique features.
+
+**Objective:**
+The children must guide Cubetto the robot to find the treasure hidden on the island using only three commands: forward, turn left, and turn right.
+
+**Scenario:**
+
+**Act 1: Setting Sail**
+- **Introduction:**
+  - The children gather around Captain Redbeard and First Mate Lily on the deck of the ship.
+  - First Mate Lily shows the children a crumpled map that marks the location of a hidden treasure on a nearby island.
+  - Captain Redbeard announces the mission: "To the treasure we sail, with Cubetto leading the way!"
+
+**Act 2: Preparing for the Journey**
+- **Cubetto's Setup:**
+  - The children place Cubetto at the bow of the ship.
+  - They attach a small Lego flag to Cubetto's antenna to represent the pirate flag.
+  - The children decide on a starting point on the map and place it near Cubetto.
+
+**Act 3: The Journey Begins**
+- **Command Time:**
+  - The children start giving Cubetto commands:
+    - **Forward (F):** Cubetto moves straight ahead, following the path marked on the map.
+    - **Turn Left (L):** Cubetto navigates around obstacles like a palm tree or a rock.
+    - **Turn Right (R):** Cubetto changes direction to stay on course towards the island

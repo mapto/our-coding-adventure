@@ -1,0 +1,31 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure.
+
+A:
+**Title: The Pirate Adventure with Cubetto**
+
+**Scenario Setup:**
+
+* **Setting:** A sun-drenched tropical island, complete with palm trees, a sandy beach, and a small cove. The island is home to a hidden treasure guarded by a mischievous pirate crew.
+
+* **Characters:**
+  - **Cubetto:** The brave robot explorer.
+  - **Captain Redbeard:** The pirate captain who knows the secret map to the treasure.
+  - **First Mate:** A loyal Lego pirate figure who assists Cubetto.
+  - **The Crew:** A group of Lego pirate figures, each with a unique personality and role (sailor, cook, lookout, etc.).
+  - **The Treasure Map:** A torn-up paper map with pieces scattered around the island.
+
+* **Objective:** Cubetto must navigate through the island, following the clues from the torn map to find all the pieces and then assemble them to reveal the exact location of the treasure.
+
+**How to Play:**
+
+1. **Preparation:**
+   - Scatter the torn pieces of the treasure map around the play area.
+   - Place Cubetto and the Lego pirate figures at the beach entrance.
+   - Set up obstacles and challenges (like a small hill, a river, or a dense forest) that Cubetto must navigate to find the map pieces.
+
+2. **Gameplay:**
+   - **Cubetto's Mission:** The children control Cubetto to explore the island. Each piece of the map reveals a clue about the next location where another piece can be found.
+   - **Obstacles:** Use the Cubetto's programming blocks to navigate around or over obstacles. For example, use a "turn right" block to avoid a tree or a "move forward" block to cross a river.
+   - **Pirate Help:** The First Mate can be programmed to interact with Cubetto. For instance, if Cubetto reaches a pirate, the First Mate can give a clue or a piece of the map.
+   - **Pirate Challenges:** Some pirates might challenge Cubetto to a simple task (like a mini-game) before giving a map piece.
+   - **Treasure Hunt

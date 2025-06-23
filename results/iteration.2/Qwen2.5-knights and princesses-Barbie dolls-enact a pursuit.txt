@@ -1,0 +1,26 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit.
+
+A:
+Certainly! Here's a fun scenario for pre-school children to play with Cubetto, incorporating knights and princesses, and using Barbie dolls to create an exciting pursuit:
+
+### Scenario: The Quest for the Lost Princess
+
+#### Materials Needed:
+- Cubetto toy
+- Programming cards (Cubetto's instruction blocks)
+- A large play mat or a flat surface
+- Barbie dolls (a princess and a knight)
+- Small obstacles or barriers (e.g., cardboard boxes, blocks, or toys)
+- A treasure chest or a small box (to represent the princess's castle)
+
+#### Setup:
+1. **Create the Scene**: Place the treasure chest (representing the princess's castle) on one side of the play mat. Use the Barbie dolls to set up a simple story: the princess has been kidnapped by a wicked dragon, and the brave knight must embark on a quest to rescue her.
+2. **Add Obstacles**: Place some small obstacles around the play mat to create a path for Cubetto. These can be cardboard boxes, blocks, or other toys that can be moved or placed to create different paths.
+3. **Introduce Cubetto**: Explain to the children that Cubetto will be the knight's guide on this quest. The knight will use Cubetto to navigate through the obstacles and find the princess.
+
+#### Instructions:
+1. **Introduction to Cubetto**: Show the children how to use the programming cards to move Cubetto. Explain that each card represents a direction (forward, left, right) and that they can use these cards to create a path for Cubetto.
+2. **Create the Path**: Have the children work together to create a path for Cubetto to follow. They can use the programming cards to create a sequence of moves that will guide Cubetto through the obstacles.
+3. **The Quest Begins**: Place the knight and the princess at the starting point. The children can use Cubetto to move the knight through the obstacles to find the princess.
+4. **Obstacles and Challenges**: As Cubetto moves, the children can add challenges such as moving obstacles or placing barriers that the knight must navigate around. This will make the quest more exciting and engaging.
+5

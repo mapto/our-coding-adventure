@@ -1,0 +1,40 @@
+bartowski/gemma-2-9b-it-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+##  Ahoy, Mateys! Treasure Hunt!
+
+**Story:**
+
+Captain Cubetto needs your help! He's lost his treasure map and can't find the buried treasure.  He needs you to guide him through the pirate ship using his trusty robot legs!
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto command blocks: Forward, Turn Left, Turn Right
+* Lego pirate figures (Captain Cubetto, a parrot, a pirate, a treasure chest)
+* A playmat or large sheet of paper to represent the pirate ship
+
+**Setup:**
+
+1.  **Create the Pirate Ship:** Use Lego bricks to build a simple pirate ship on your playmat. Include a starting point for Captain Cubetto and a designated treasure spot.
+2.  **Place the Figures:** Position the Lego figures on the playmat: Captain Cubetto at the starting point, the parrot perched on a mast, the pirate guarding the treasure chest, and the treasure chest hidden somewhere on the ship.
+
+**The Mission:**
+
+Captain Cubetto needs to find the treasure!  Use the Cubetto command blocks to guide him through the ship, avoiding obstacles and following the "treasure map" you create with your instructions.
+
+**Instructions:**
+
+* **Start:** Place Captain Cubetto at the starting point.
+* **Follow the Map:**  Give Captain Cubetto instructions using the command blocks:
+    * **Forward:**  "Captain Cubetto, move forward!"
+    * **Turn Left:** "Captain Cubetto, turn left!"
+    * **Turn Right:** "Captain Cubetto, turn right!"
+* **Obstacles:**  Use Lego bricks to create obstacles on the playmat (e.g., a cannon, a rope ladder). Guide Captain Cubetto around them.
+* **Treasure Found!** When Captain Cubetto reaches the treasure chest, celebrate!
+
+**Variations:**
+
+* **Add a Challenge:**  Make the treasure hunt more challenging by adding more obstacles or requiring Captain Cubetto to follow a specific path.
+* **Storytelling:** Encourage children to create their own pirate stories and use Cubetto to act them out.
+* **Teamwork:**

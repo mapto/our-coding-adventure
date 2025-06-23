@@ -1,0 +1,8 @@
+Qwen2.5-7B-Instruct-GGUF	Parameters: {'world': 'Wild West', 'objects': 'Barbie dolls', 'task': 'rescue someone'}
+
+-------------------
+In the Wild West adventure with Cubetto, preschool children embark on a thrilling rescue mission to save their favorite Barbie doll, who has been captured by a mischievous bandit. The game is designed to teach basic programming concepts in a fun and engaging way. Children place Cubetto on a map of the Wild West, where they must navigate through a series of obstacles to reach the location of the captured doll.
+
+To rescue the doll, children use only three command blocks: "Forward," "Turn Left," and "Turn Right." They must strategically plan their path by arranging these blocks to move Cubetto around the map. For example, they might need to turn left to avoid a cactus, then move forward to cross a river, and finally turn right to reach the bandit's hideout. Each successful command block placement brings them one step closer to rescuing the doll.
+
+The game encourages problem-solving and logical thinking as children experiment with different sequences of commands to find the most efficient route. With each successful rescue, children feel a sense of accomplishment and learn the basics of programming in a playful and imaginative setting.

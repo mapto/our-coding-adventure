@@ -1,0 +1,33 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone.
+
+A:
+Here's a scenario to play with Cubetto:
+
+**Title:** "Barbie's Wild West Rescue"
+
+**Story:** In the Wild West town of "Dusty Valley," a notorious outlaw named "Blackheart Bill" has kidnapped the town's beloved sheriff, played by a Barbie doll. The sheriff's daughter, also a Barbie doll, has called upon the brave children of the town to rescue her father. The children have heard about the magical Cubetto, a mysterious inventor who has created a machine that can help them navigate through the Wild West terrain and reach Blackheart Bill's hideout.
+
+**Objective:** Using Cubetto, the children must program a path for their brave cowboy or cowgirl character to reach Blackheart Bill's hideout, rescue the sheriff, and return to the town of Dusty Valley.
+
+**Setup:**
+
+1. Create a Wild West terrain using blocks, such as wooden or foam blocks, to represent the town, the desert, and the hideout.
+2. Place the Barbie dolls in their respective positions: the sheriff in the hideout, and the sheriff's daughter in the town.
+3. Introduce the Cubetto machine, which can be placed near the terrain.
+4. Provide the children with a set of Cubetto blocks, including:
+	* A cowboy or cowgirl character block
+	* A horse block
+	* A wagon block
+	* A bridge block
+	* A tunnel block
+	* A "danger" block (e.g., a cactus or a snake)
+
+**Gameplay:**
+
+1. The children will use the Cubetto blocks to program a path for their cowboy or cowgirl character to reach the hideout.
+2. They will need to navigate through the terrain, avoiding obstacles and dangers along the way.
+3. When the character reaches the hideout, the children will need to program a sequence of actions to rescue the sheriff, such as:
+	* Moving the character to the hideout
+	* Using the horse block to reach the hideout
+	* Using the wagon block to transport the sheriff back to the town
+4. Once the sheriff is rescued, the children will need to program a path to return to

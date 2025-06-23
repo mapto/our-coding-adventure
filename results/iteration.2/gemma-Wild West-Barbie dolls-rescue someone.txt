@@ -1,0 +1,46 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone.
+
+A:
+## The Great Saloon Rescue!
+
+**Scenario:**
+
+Barbie and her friends are having a fun time at the Wild West saloon, playing poker and enjoying lemonade. Suddenly, a mischievous coyote sneaks in and kidnaps Barbie! The children must use Cubetto to rescue her before the coyote escapes with her to his den!
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto blocks
+* A playmat or large sheet of paper to represent the Wild West town
+* Barbie doll
+* A toy coyote
+* Optional: other Wild West toys like horses, saloon buildings, etc.
+
+**Instructions:**
+
+1. **Set the scene:** Create a Wild West town on the playmat. Place the saloon, horses, and other toys to make it feel realistic.
+
+2. **Introduce the problem:** Tell the children that Barbie has been kidnapped by the coyote! Show them the coyote holding Barbie captive.
+
+3. **Plan the rescue:** Encourage the children to think about how Cubetto can help rescue Barbie. Ask them questions like:
+
+    * Where is the coyote taking Barbie?
+    * What obstacles might Cubetto face on the way?
+    * How can Cubetto move around the town?
+
+4. **Program Cubetto:** Using the Cubetto blocks, children can program Cubetto to navigate the town, avoiding obstacles and reaching the coyote's den.
+
+5. **Execute the rescue:** Let Cubetto "drive" through the town, following the children's program. When Cubetto reaches the coyote, the children can "rescue" Barbie.
+
+**Variations:**
+
+* **Add more characters:** Introduce other Wild West characters like cowboys, sheriffs, or bandits.
+* **Create challenges:** Add obstacles like rivers, fences, or cacti that Cubetto needs to overcome.
+* **Tell a story:** Encourage the children to create a story around the rescue mission, adding dialogue and details.
+
+**Learning Outcomes:**
+
+* **Problem-solving:** Children will learn to identify problems and develop solutions using Cubetto.
+* **Spatial reasoning:** Children will develop their understanding of spatial relationships and directions.
+* **Coding concepts:** Children will be introduced to basic coding concepts like sequencing and loops.
+* **Creativity and imagination:** Children will use their imagination to

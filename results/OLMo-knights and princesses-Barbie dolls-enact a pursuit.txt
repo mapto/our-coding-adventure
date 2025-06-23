@@ -1,0 +1,28 @@
+OLMo-2-1124-7B-Instruct-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+Title: **The Enchanted Quest: Knights and Princesses**
+
+**Objective:**
+The objective of this game is for preschool children to use the Cubetto tangible programming toy to guide a knight on a thrilling quest to rescue a princess. Children will learn about basic programming concepts such as sequence, loops, and conditionals through a fun and engaging narrative.
+
+**Setting:**
+The game is set in the magical kingdom of Araminta, where a brave knight named Sir Valor sets out on a daring mission to save Princess Seraphina from the clutches of the evil sorcerer, Malakar. The kingdom is filled with enchanted forests, crystal-clear rivers, and towering mountains. Barbie dolls can be used to represent the princess and the knight, adding a personal touch to the adventure.
+
+**Gameplay:**
+
+1. **Preparation:**
+   - **Characters:** Use Barbie dolls to represent the knight (Sir Valor) and the princess (Princess Seraphina).
+   - **Cubetto Setup:** Arrange the Cubetto robot in the starting position at the foot of a small hill (made from paper or blocks) that represents the entrance to the enchanted forest.
+   - **Map:** Create a simple map using paper or a whiteboard, illustrating the path Sir Valor must take. Include landmarks like the enchanted forest, the crystal river, and the mountain where the princess is held captive.
+
+2. **Programming Commands:**
+   - **Forward:** The knight moves forward along the path.
+   - **Turn Left:** The knight turns left to explore different paths or avoid obstacles.
+   - **Turn Right:** The knight turns right to approach the next landmark or challenge.
+
+3. **The Quest:**
+   - **Starting Point:** The knight begins at the foot of the hill, facing the entrance to the enchanted forest.
+   - **First Challenge:** The knight must turn left and move forward to cross the enchanted forest.
+   - **Second Challenge:** After exiting the forest, the knight encounters a crystal river. To cross, the knight must turn right

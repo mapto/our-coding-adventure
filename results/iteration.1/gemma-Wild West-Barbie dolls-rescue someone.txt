@@ -1,0 +1,42 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone.
+
+A:
+## The Great Saloon Showdown
+
+**Scenario:**
+
+Barbie and her friends are having a rootin' tootin' time at the Wild West saloon. Suddenly, a notorious outlaw, "Quickdraw" Jack, bursts in and kidnaps Barbie's best friend, "Daisy" the cowgirl!  
+
+**The Mission:**
+
+The children must use Cubetto to rescue Daisy from Quickdraw Jack's hideout before he rides off into the sunset!
+
+**The Setup:**
+
+* **The Saloon:** Use building blocks or furniture to create a saloon scene. 
+* **Barbie and Daisy:** Place Barbie and a Daisy doll in the saloon.
+* **Quickdraw Jack:**  Use a toy cowboy or bandit figure to represent Quickdraw Jack.
+* **The Hideout:** Designate a separate area as Quickdraw Jack's hideout, perhaps behind a curtain or under a table.
+
+**The Challenge:**
+
+* **Program Cubetto:** Children will need to program Cubetto to navigate the saloon, avoid obstacles (like saloon tables and chairs), and reach Quickdraw Jack's hideout.
+* **Rescue Daisy:** Once Cubetto reaches the hideout, children can program it to pick up Daisy and bring her back to Barbie.
+
+**Adding Complexity:**
+
+* **Obstacles:** Add more obstacles to the saloon, like swinging saloon doors or a "no-entry" sign.
+* **Time Limit:** Set a timer to add urgency to the rescue mission.
+* **Multiple Characters:** Introduce other characters like a sheriff or a saloon owner who can help or hinder the rescue.
+
+**Learning Outcomes:**
+
+* **Spatial Reasoning:** Children will learn to think about the layout of the environment and plan Cubetto's movements.
+* **Problem Solving:** Children will need to figure out how to overcome obstacles and reach their goal.
+* **Sequencing:** Children will learn to sequence commands to create a series of actions for Cubetto to follow.
+* **Collaboration:** Children can work together to program Cubetto and complete the mission.
+
+
+This scenario provides a fun and engaging way for children to learn about programming while exploring a Wild West theme. 
+
+

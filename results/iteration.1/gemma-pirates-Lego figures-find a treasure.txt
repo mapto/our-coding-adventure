@@ -1,0 +1,45 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure.
+
+A:
+##  Ahoy, Mateys! The Treasure Hunt!
+
+**Scenario:**
+
+Captain Blackheart has hidden his treasure on a deserted island!  Your crew of Lego pirates needs to find it using Cubetto's help.  
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto blocks
+* Lego pirate figures
+* Lego building blocks to create an island landscape (trees, rocks, etc.)
+* Optional: Treasure chest, gold coins, pirate flag
+
+**Instructions:**
+
+1. **Set the Stage:** Build a simple island landscape with Lego blocks. Place the Lego pirate figures on the island. Hide a treasure chest (or a designated spot) somewhere on the island.
+
+2. **The Mission:** Explain to the children that they are pirates on a mission to find Captain Blackheart's treasure. They need to use Cubetto to guide their pirate figure to the treasure.
+
+3. **Programming the Treasure Hunt:**
+
+   * **Start Point:**  Place Cubetto at the starting point near the Lego pirates.
+   * **Obstacles:**  Use Lego blocks to create obstacles on the island (e.g., rocks, trees).
+   * **Commands:**  Guide the children to program Cubetto using the blocks to:
+      * Move forward
+      * Turn left or right
+      * Avoid obstacles
+      * Reach the treasure chest
+
+4. **Testing and Refining:** Let the children test their program and see if Cubetto can successfully find the treasure. Encourage them to adjust the program if needed.
+
+5. **Celebration:** Once Cubetto finds the treasure, celebrate the pirates' success!  
+
+**Variations:**
+
+* **Multiple Treasures:** Hide multiple treasure chests with different rewards.
+* **Pirate Challenges:** Add challenges along the way, like "collect a gold coin" or "avoid the kraken's tentacles" (represented by Lego blocks).
+* **Storytelling:** Encourage the children to create a story about their pirate adventure.
+
+
+This scenario allows children to learn about programming concepts like sequencing, loops, and conditional statements in a fun and engaging way.  It also encourages creativity, problem-solving, and teamwork.

@@ -1,0 +1,32 @@
+bartowski/OLMo-2-1124-7B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+**Title: The Cowboy Rescue Adventure**
+
+**Setting:**
+The Wild West, a vast and open landscape dotted with cacti, tumbleweeds, and a small, isolated ranch. The sun is setting, casting long shadows over the scene. A Barbie doll dressed as a damsel in distress, named Daisy, is trapped inside a mock-up wooden jail on the ranch's outskirts. Her cowboy friends, Ken and Woody, are desperately trying to come up with a plan to rescue her.
+
+**Characters:**
+- **Daisy:** The damsel in distress, locked inside a wooden jail.
+- **Ken:** A brave cowboy friend of Daisy.
+- **Woody:** Another cowboy friend of Daisy, slightly nervous but determined.
+- **Cubetto:** The robot hero who will navigate through the Wild West to rescue Daisy.
+
+**Objective:**
+The children must use Cubetto to navigate through the Wild West, avoiding obstacles, and reaching Daisy to free her from her wooden prison.
+
+**Scenario:**
+
+**Page 1: The Setup**
+- **Ken and Woody** are seen near the wooden jail, discussing their plan to rescue Daisy.
+- **Cubetto** is introduced as the robot hero who will help them.
+- **Ken** explains to **Cubetto** that they need to move forward, turn left, and then turn right to reach Daisy.
+
+**Page 2: The Journey Begins**
+- **Cubetto** starts its journey by moving **forward**.
+- **Ken** and **Woody** cheer as **Cubetto** successfully navigates past a small cactus patch.
+- **Cubetto** then **turns left** to avoid a rocky outcrop and **turns right** to head towards a narrow path leading to the ranch.
+
+**Page 3: The Obstacles**
+- **Cubetto** encounters a tumbleweed blocking the path. **Ken** and **Woody** guide **Cubetto** to go around it by moving **forward** and then **turning left**.
+- **Cub

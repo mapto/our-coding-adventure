@@ -1,0 +1,48 @@
+bartowski/Qwen2.5-7B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about Wild West, involve Barbie dolls and children should use Cubetto to rescue someone. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+Sure! Here’s a one-page scenario for using Cubetto with preschool children in a Wild West-themed adventure to rescue a Barbie doll:
+
+---
+
+**Wild West Rescue Adventure with Cubetto**
+
+**Objective:** Help Cubetto rescue a Barbie doll from the Wild West!
+
+**Materials Needed:**
+- Cubetto toy
+- Command blocks (forward, turn left, turn right)
+- Map of the Wild West (printed or drawn)
+- Barbie doll (or a small toy)
+- Small obstacles (like rocks or cacti) to place on the map
+
+**Scenario:**
+Cubetto is a brave little robot who lives in the Wild West. One day, his friend, a Barbie doll, gets lost in the desert! Cubetto needs your help to find her and bring her back home.
+
+**Instructions:**
+1. **Set Up the Map:**
+   - Place the map on the floor or a table.
+   - Add some obstacles like rocks or cacti to make the path more challenging.
+   - Place the Barbie doll somewhere on the map.
+
+2. **Cubetto’s Mission:**
+   - Cubetto needs to find the Barbie doll and bring her back home.
+   - Use only three command blocks: forward, turn left, and turn right.
+
+3. **Cubetto’s Journey:**
+   - Start by placing the forward command block.
+   - Then, place the turn left or turn right command block to navigate around obstacles.
+   - Repeat these steps to move Cubetto closer to the Barbie doll.
+
+4. **Rescue the Barbie Doll:**
+   - Once Cubetto reaches the Barbie doll, use the forward command block to move her to a safe spot.
+   - Celebrate with a cheer or a dance!
+
+**Tips:**
+- Encourage children to think about the path Cubetto needs to take.
+- Discuss the importance of planning and problem-solving.
+- Praise their efforts and creativity in solving the puzzle.
+
+**Extension Activity:**
+- Create a storybook or a comic strip about Cubetto’s adventure.
+- Draw a map of the Wild West and mark the

@@ -1,0 +1,25 @@
+OLMo-2-1124-7B-Instruct-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+Title: **Superhero Adventure with Cubetto: The Battle for City Safety**
+
+**Objective:**
+In this engaging game, preschool children will embark on a thrilling adventure with their Cubetto robot, transforming it into a superhero tasked with saving City Safety from the clutches of the villainous Dr. Reverse. Using only three Cubetto command blocks (forward, turn left, and turn right), children will navigate their Cubetto through a series of challenges, utilizing Hot Wheels cars as allies and obstacles.
+
+**Setting:**
+The game unfolds in the vibrant and imaginative City Safety, a metropolis filled with towering skyscrapers, bustling streets, and a central plaza where the climactic showdown will take place. The city is under threat as Dr. Reverse has unleashed chaos, reversing the flow of traffic, causing havoc, and trapping innocent citizens in his twisted schemes.
+
+**Characters:**
+- **Cubetto:** The hero of our story, equipped with the power to navigate through the city and save its inhabitants.
+- **Dr. Reverse:** The villain, who has turned the city's traffic upside down, trapping citizens and causing mayhem.
+- **Hot Wheels Cars:** These are the allies of Cubetto. They can be used to block paths, create shortcuts, or even rescue trapped citizens.
+
+**Gameplay:**
+1. **Preparation:**
+   - Set up the game area with a map of City Safety on the floor. Use tape or markers to outline key locations such as the starting point, the central plaza, and areas where Hot Wheels cars are positioned.
+   - Scatter Hot Wheels cars around the map, some in strategic positions to assist Cubetto and others as obstacles created by Dr. Reverse.
+   - Prepare a few Hot Wheels cars to represent trapped citizens, which Cubetto must rescue by moving them to designated safe zones.
+
+2. **The Adventure Begins:**
+   - **Starting Point:** Cubetto begins its journey at the edge of the city, facing the first challenge: a reversed traffic lane. Children must use the command blocks to navigate Cubetto through the obstacle, turning right

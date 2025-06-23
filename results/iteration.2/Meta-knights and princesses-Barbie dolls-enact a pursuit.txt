@@ -1,0 +1,37 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit.
+
+A:
+Here's a scenario to play with Cubetto:
+
+**Title:** "The Brave Knight's Rescue Mission"
+
+**Objective:** Help the brave knight (played by a child) rescue the princess (played by a Barbie doll) from the clutches of the evil dragon (played by another child).
+
+**Setup:**
+
+1. Create a simple obstacle course using blocks, books, or other materials to represent the kingdom.
+2. Place the princess (Barbie doll) at the end of the obstacle course, making it difficult for the knight to reach her.
+3. Assign the evil dragon (another child) to guard the princess and try to stop the knight from rescuing her.
+
+**Cubetto Programming:**
+
+1. Explain to the children that they will use Cubetto to program the brave knight's journey to rescue the princess.
+2. Show them how to create a sequence of steps using Cubetto's blocks:
+	* Start with the knight's starting point.
+	* Add a "move forward" block to make the knight move towards the princess.
+	* Add a "turn left" or "turn right" block to navigate around obstacles.
+	* Add a "stop" block to pause the knight's journey.
+	* Add a "repeat" block to make the knight repeat a sequence of steps.
+3. Encourage the children to experiment with different sequences of steps to see how the knight's journey changes.
+
+**Gameplay:**
+
+1. The brave knight (child) will use Cubetto to program their journey to rescue the princess.
+2. The evil dragon (another child) will try to stop the knight by moving their own character (e.g., a toy or a block) to block the knight's path.
+3. The knight must use their programming skills to outsmart the dragon and reach the princess.
+4. If the knight successfully rescues the princess, they win! If the dragon stops the knight, the dragon wins.
+
+**Variations:**
+
+1. Add more challenges, such as a moat or a castle wall, that the knight must navigate around.
+2. Introduce a time limit for the knight to rescue the princess, making

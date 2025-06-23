@@ -1,0 +1,30 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure.
+
+A:
+ Title: Pirate Treasure Hunt Adventure with Cubetto
+
+Scenario:
+
+Welcome to the Island of Lost Toys, a mystical island where pirates and toys coexist! The pirate captain Cubetto has lost his treasure map, and it's up to you and your crew of Lego pirates to help him find it!
+
+Setup:
+
+1. Set up the Cubetto playmat with various paths and obstacles that resemble the Island of Lost Toys.
+2. Place the treasure chest at the end of the path, and scatter Lego pirate figures and treasure tokens along the way.
+3. Place the Cubetto robot at the starting point with the map pieces scattered around him.
+
+Instructions:
+
+1. Explain to the children that Cubetto has lost his treasure map, but he has a magical decoder that can read the map when he reaches specific locations on the island.
+
+2. Instruct the children to use the Cubetto programming blocks to guide Cubetto along the path, over obstacles, and to collect the map pieces.
+
+3. As Cubetto collects the map pieces, he will be able to decode the treasure map and find the location of the treasure chest.
+
+4. Once Cubetto reaches the treasure chest, the children can use their Lego pirate figures to celebrate and share the treasure tokens among the crew.
+
+5. Encourage the children to experiment with different programming sequences to find the most efficient route to the treasure chest and to collect as many treasure tokens as possible.
+
+6. As the children play, discuss the importance of problem-solving, teamwork, and persistence in achieving their goals.
+
+7. At the end of the game, allow the children to create their own pirate adventures using Cubetto and their Lego pirate figures, encouraging creativity and open-ended play.

@@ -1,0 +1,31 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle.
+
+A:
+ Title: Cubetto's Superhero Car Race Challenge
+
+Scenario:
+
+In a magical city, Cubetto, a young superhero, has invented a special Hot Wheels car that can race on its own. The car is powered by a magical crystal, but it has been stolen by the mischievous villain, Speedy Spinner. Cubetto needs to retrieve the crystal and bring it back to the city to save the day.
+
+Materials:
+
+1. Cubetto and its programming blocks
+2. Hot Wheels cars (one for Cubetto and one for Speedy Spinner)
+3. A race track made from interlocking Hot Wheels tracks
+4. A starting block for Cubetto
+5. A finish line
+6. A treasure chest (representing the crystal)
+7. Superhero and villain figures
+
+Instructions:
+
+1. Set up the race track with various twists, turns, and obstacles to create a challenging course. Place the starting block at one end of the track and the finish line at the other.
+2. Place the treasure chest at the finish line, representing the stolen crystal.
+3. Position the Speedy Spinner Hot Wheels car at the starting block.
+4. Explain to the children that Speedy Spinner has stolen the magical crystal and is using it to power his car, making it faster than Cubetto's.
+5. Introduce the Cubetto programming blocks and explain that they will be used to program Cubetto to navigate the race track and catch Speedy Spinner.
+6. Start by teaching the children basic programming concepts such as "Move," "Turn Left," and "Turn Right."
+7. Encourage the children to work in pairs or small groups to program Cubetto to navigate the race track and catch Speedy Spinner.
+8. Once the children have programmed Cubetto, place it at the starting block and let the race begin!
+9. The children can adjust and modify their programs as needed to improve Cubetto's performance and catch Speedy Spinner.
+10. The first pair or group to successfully retrieve the crystal and bring it back to the starting block

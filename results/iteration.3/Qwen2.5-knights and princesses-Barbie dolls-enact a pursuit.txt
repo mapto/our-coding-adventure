@@ -1,0 +1,45 @@
+bartowski/Qwen2.5-7B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+Certainly! Here’s a one-page scenario for using Cubetto with preschool children to enact a pursuit between a knight and a princess:
+
+---
+
+**Cubetto Adventure: Knight and Princess Pursuit**
+
+**Objective:** Use Cubetto to help the knight catch the princess!
+
+**Materials Needed:**
+- Cubetto toy
+- Command blocks (forward, turn left, turn right)
+- Barbie dolls (princess and knight)
+- A play mat or a large piece of paper to represent the castle grounds
+
+**Setup:**
+1. Place the Barbie dolls on the play mat. The princess is hiding in a secret location, and the knight is starting at the castle gate.
+2. Explain to the children that the knight needs to find the princess and bring her back to the castle.
+
+**Instructions:**
+1. **Knight's Quest:**
+   - The knight starts at the castle gate (top left corner of the play mat).
+   - The princess is hiding somewhere on the play mat (you can choose a spot or let the children decide).
+   - The knight needs to find the princess and bring her back to the castle.
+
+2. **Using Cubetto:**
+   - The children will use Cubetto to move the knight towards the princess.
+   - They can only use three command blocks: forward, turn left, and turn right.
+   - Each command block can be used only once.
+
+**Steps:**
+1. **First Move:**
+   - Choose a direction (forward, turn left, or turn right) and place the corresponding command block on Cubetto.
+   - Move Cubetto to the next spot on the play mat.
+   - Discuss with the children if the knight is closer to the princess or needs to change direction.
+
+2. **Second Move:**
+   - Choose another direction (forward, turn left, or turn right) and place the corresponding command block on Cubetto.
+   - Move Cubetto again.
+   - Discuss if the knight is getting closer or needs to change direction.
+
+3. **Third Move:**
+   - Choose the final direction (forward, turn left,

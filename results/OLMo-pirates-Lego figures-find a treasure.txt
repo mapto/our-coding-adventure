@@ -1,0 +1,28 @@
+OLMo-2-1124-7B-Instruct-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+Title: **Pirate Adventure with Cubetto: The Quest for the Treasure**
+
+**Objective:**
+Embark on a thrilling journey with your preschoolers as they navigate their Cubetto robot through a pirate-themed adventure. Using just three basic commands—forward, turn left, and turn right—your little explorers will guide Cubetto to discover a hidden treasure, all while engaging with their imaginative play using Lego figures.
+
+**Setting the Scene:**
+Transform your classroom into a vibrant pirate cove. Arrange the Cubetto play area to resemble a sun-drenched island, complete with a sandy beach, a small pirate ship, and a treasure chest. Scatter Lego pirate figures around the island, each with a distinct role: the captain, first mate, parrot, and crew members. The treasure chest is placed at the end of a winding path, guarded by a friendly sea creature made from a large Lego block.
+
+**Gameplay:**
+
+1. **The Setup:**
+   - Begin by explaining the story to your students: Cubetto, the brave robot pirate, has received a map leading to the legendary treasure hidden on the island. The map is encoded in a sequence of commands using Cubetto's blocks.
+   - Introduce the Lego pirate figures and the treasure chest as key elements of the adventure.
+
+2. **The Commands:**
+   - Teach the children the three basic commands: forward (to move Cubetto along the path), turn left (to navigate around obstacles), and turn right (to change direction).
+   - Demonstrate how to string these commands together to create a simple program that guides Cubetto from the starting point to the treasure.
+
+3. **The Adventure Begins:**
+   - Divide the class into small groups, each with their own Cubetto robot and set of commands.
+   - Encourage them to work together to decode the map (a simple sequence of commands you provide) and guide Cubetto to the treasure.
+   - As they play, circulate and offer guidance, helping them troubleshoot any challenges they encounter.
+
+4. **Interactive Story

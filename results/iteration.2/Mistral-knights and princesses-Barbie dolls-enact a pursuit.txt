@@ -1,0 +1,36 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit.
+
+A:
+ Title: The Knightly Quest for the Brave Barbie Princess
+
+Scenario:
+
+In the magical kingdom of Cubetopia, the beloved Barbie Princess has lost her enchanted crown! The kingdom is in a state of despair, and the only hope lies with the bravest knight, Cubetto.
+
+Materials:
+
+- Cubetto robot
+- Cubetto blocks (including direction, loop, and action blocks)
+- Barbie doll (dressed as a princess)
+- Castle and knight figurines
+- A treasure chest (representing the lost crown)
+- A maze or obstacle course (made from blocks or other materials)
+
+Instructions:
+
+1. Set up the castle and knight figurines at one end of the play area, and the treasure chest (representing the lost crown) at the other end.
+
+2. Create a maze or obstacle course using the Cubetto blocks for Cubetto to navigate. This could include ramps, tunnels, and barriers.
+
+3. Explain to the children that Cubetto is on a quest to find the lost crown of the Barbie Princess. The children will help program Cubetto to navigate the maze and reach the treasure chest.
+
+4. Introduce the children to the Cubetto blocks and explain their functions:
+   - Direction blocks (forward, left, right, and back)
+   - Loop blocks (to repeat a sequence of actions)
+   - Action blocks (make a sound, turn on a light, etc.)
+
+5. Encourage the children to work together to program Cubetto, using the blocks to help him find the lost crown. They can use loops to repeat certain actions, direction blocks to move Cubetto through the maze, and action blocks to make the journey more exciting (e.g., making a sound when Cubetto reaches the treasure chest).
+
+6. As the children work together, discuss problem-solving strategies and encourage them to think critically about the best way to program Cubetto to complete the quest.
+
+7. Once the children have successfully programmed Cubetto to reach the

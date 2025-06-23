@@ -1,0 +1,28 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure.
+
+A:
+**Cubetto Pirate Adventure: The Quest for the Treasure**
+
+**Objective:**
+Children will use the Cubetto tangible programming toy to guide a pirate crew on a quest to find a hidden treasure. This scenario combines storytelling, creativity, and hands-on learning, making it an engaging and educational activity for pre-schoolers.
+
+**Setting:**
+- **The Pirate Ship:** Begin by setting up a pirate ship using Lego blocks. The ship should be large enough to accommodate several Lego figures representing the pirate crew.
+- **The Island:** Build an island using Lego bricks to represent where the treasure is hidden. The island should have a few landmarks or areas of interest, such as a cave, a waterfall, or a treasure chest.
+- **The Cubetto Map:** Place the Cubetto robot on a flat surface nearby, along with its programming mat and directional tiles.
+
+**Scenario:**
+
+**Introduction:**
+- Gather the children and introduce the story: "Once upon a time, on a sunny day at sea, Captain Blackbeard and his brave crew set sail in search of the legendary treasure of Captain Kidd. The treasure is rumored to be hidden on a mysterious island. To find it, they need to follow a secret map that only Cubetto can decipher."
+
+**Instructions:**
+
+1. **Programming Cubetto:**
+   - **Start Point:** Place Cubetto at the pirate ship.
+   - **Programming Path:** Use the directional tiles to program a path from the pirate ship to the island. Encourage children to think about the best route, considering any obstacles like water or rocks (represented by Lego structures).
+   - **Include Challenges:** Add a few challenges along the way, such as avoiding a "storm" (a small Lego obstacle) or reaching a "cannon" (a specific Lego structure) to "fire" (activate) a "life-raft" (another Lego structure) that allows the pirates to cross a "riverside" (a Lego bridge).
+
+2. **The Adventure Begins:**
+   - Once Cubetto is programmed, let the adventure begin!
+   - As Cubetto moves, narrate the story: "Cubetto starts his journey, steering the ship towards the

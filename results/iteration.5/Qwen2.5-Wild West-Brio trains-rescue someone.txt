@@ -1,0 +1,8 @@
+Qwen2.5-7B-Instruct-GGUF	{'world': 'Wild West', 'objects': 'Brio trains', 'task': 'rescue someone'}
+
+-------------------
+In the Wild West-themed adventure with Cubetto, preschool children embark on a thrilling journey to rescue a stranded cowboy from a remote station. The game is designed to teach basic programming concepts through tangible play. Children place Cubetto on a large map of the Wild West, featuring a network of tracks laid out by Brio train tracks. The objective is to guide Cubetto through the tracks to reach the cowboy and bring him back to safety.
+
+To accomplish this, children use only three command blocks: "Forward," "Turn Left," and "Turn Right." They must strategically place these blocks to navigate Cubetto through the complex terrain. The map includes various challenges such as loops, dead ends, and obstacles, requiring children to think logically and plan their moves carefully.
+
+As they progress, children learn to anticipate potential obstacles and plan their routes efficiently. This not only enhances their problem-solving skills but also introduces them to the basics of coding and algorithmic thinking in a fun and engaging way. The adventure encourages teamwork and creativity, as children collaborate to find the best path for Cubetto to follow. By the end of the game, children will have not only rescued the cowboy but also gained valuable skills in logical reasoning and spatial awareness.

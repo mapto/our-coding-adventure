@@ -1,0 +1,35 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure.
+
+A:
+ Title: Pirate Treasure Hunt Adventure with Cubetto
+
+Scenario:
+
+Welcome to the Island of Treasure Isles! In this exciting adventure, young pirates will embark on a journey to find the legendary Pirate Treasure using Cubetto, their friendly wooden robot.
+
+Setup:
+
+1. Set up the Cubetto playmat with various Lego obstacles and landmarks, such as a pirate ship, a treasure chest, a pirate's skull, and a map.
+
+2. Place the Cubetto robot at the starting point, near the pirate ship.
+
+3. Scatter Lego blocks around the playmat, each with a different command for Cubetto:
+
+   - Forward (F) blocks: These will make Cubetto move forward.
+   - Left (L) blocks: These will make Cubetto turn left.
+   - Right (R) blocks: These will make Cubetto turn right.
+   - Action (A) blocks: These will make Cubetto perform an action, such as playing a sound or lighting up a sensor.
+
+4. Hide the treasure chest somewhere on the playmat, and place a Lego flag near it to serve as a beacon.
+
+Gameplay:
+
+1. Explain to the children that Cubetto is a pirate captain who has received a map to find the treasure.
+
+2. Instruct the children to help Cubetto by placing the correct Lego blocks on the playmat to guide him towards the treasure.
+
+3. As Cubetto moves along the path, he will encounter various obstacles, such as a crocodile pit or a sunken ship. The children must help Cubetto overcome these obstacles by placing Action (A) blocks to make him play a sound to scare the crocodile or by placing Forward (F) blocks to help him jump over the sunken ship.
+
+4. Once Cubetto reaches the treasure chest, the children can celebrate and take turns playing as the pirate captain to find more treasures.
+
+5. Encourage the children to experiment with different combinations of blocks to create unique paths for Cubetto and solve challenges

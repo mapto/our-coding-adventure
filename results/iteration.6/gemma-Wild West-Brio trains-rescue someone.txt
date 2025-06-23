@@ -1,0 +1,34 @@
+gemma-2-9b-it-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about Wild West, involve Brio trains and children should use Cubetto to rescue someone. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+##  Wild West Train Rescue!
+
+**Objective:** Use Cubetto to guide a train through the Wild West and rescue a trapped cowboy!
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto command blocks (forward, turn left, turn right)
+* Brio train track
+* Brio train
+
+**Story:**
+
+A cowboy got stuck in a canyon! He needs your help to escape! Use Cubetto to drive the train through the Wild West, avoiding obstacles and reaching the cowboy in time.
+
+**Gameplay:**
+
+1. **Set the scene:** Build a Brio train track representing the Wild West landscape. Include obstacles like rocks, cacti, and a river.
+2. **The rescue mission:** Place the train at the starting point and the cowboy figure at the canyon.
+3. **Program Cubetto:** Children use the three command blocks to program Cubetto to drive the train forward, turn left or right, navigating the track and reaching the cowboy.
+4. **Rescue!** When Cubetto reaches the cowboy, the rescue is complete!
+
+**Tips:**
+
+* Encourage children to think about the order of commands needed to reach the cowboy.
+* Use visual aids like drawings or pictures to represent the track and obstacles.
+* Let children experiment with different programs and see what works best.
+* Celebrate their success in rescuing the cowboy!
+
+
+This game encourages problem-solving, spatial reasoning, and early coding concepts in a fun and engaging way. 

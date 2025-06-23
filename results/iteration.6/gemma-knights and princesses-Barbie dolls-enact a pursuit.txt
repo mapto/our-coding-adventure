@@ -1,0 +1,32 @@
+gemma-2-9b-it-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+##  The Knight's Quest!
+
+**Objective:** Help the brave knight rescue the princess from the dragon!
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto command blocks (forward, turn left, turn right)
+* Barbie dolls: a knight, a princess, and a dragon
+* Play mat or large sheet of paper
+
+**Instructions:**
+
+1. **Set the scene:** Arrange the Barbie dolls on the play mat. The princess is trapped in a tower (a designated area), and the dragon guards her. The knight starts at a distance.
+
+2. **Program the knight:**  Children work together to program Cubetto to navigate the play mat. They use the forward, turn left, and turn right blocks to guide the knight towards the princess.
+
+3. **The pursuit:**  As Cubetto moves, children narrate the story.  "The knight bravely marches forward!" "He turns left to avoid the dragon's fire!" "He's getting closer to the princess!"
+
+4. **Rescue mission:** When Cubetto reaches the princess, the children cheer! The knight has successfully rescued the princess!
+
+**Variations:**
+
+* **Obstacle course:** Add obstacles (blocks, toys) for Cubetto to navigate around.
+* **Multiple knights:** Use multiple Cubetto robots for different knights to rescue the princess.
+* **Dragon chase:** Program the dragon to move around the play mat, making it harder for the knight to reach the princess.
+
+
+This game encourages teamwork, problem-solving, and storytelling while introducing basic programming concepts in a fun and engaging way. 

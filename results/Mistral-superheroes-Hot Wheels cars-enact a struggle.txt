@@ -1,0 +1,29 @@
+Mistral-7B-Instruct-v0.3-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+ Title: Superhero Car Chase with Cubetto and Hot Wheels
+
+Objective:
+In this engaging and interactive game, preschool children will use the Cubetto tangible programming toy to create a thrilling superhero car chase scenario. This activity will help children develop their problem-solving skills, spatial awareness, and storytelling abilities while having fun.
+
+Materials:
+- Cubetto programming robot
+- Cubetto block set (forward, turn left, turn right)
+- Hot Wheels cars and tracks
+- Superhero figurines
+
+Instructions:
+1. Set up a Hot Wheels track with various twists, turns, and obstacles to create an exciting car chase environment.
+2. Introduce superhero figurines to represent the characters in the story.
+3. Explain to the children that they will be using the Cubetto programming blocks to control the superhero's vehicle and help them escape from the villain's car.
+
+Gameplay:
+1. Place the Cubetto robot at the starting point of the Hot Wheels track.
+2. Children will use the forward block to make Cubetto move along the track.
+3. To navigate turns and obstacles, children will use the turn left and turn right blocks.
+4. The objective is for the superhero to reach the finish line before the villain catches up.
+5. Encourage children to strategize and use problem-solving skills to create the most efficient path for their superhero.
+6. After each run, discuss the strategies used and brainstorm ways to improve them for the next round.
+
+This game not only fosters children's creativity and critical thinking but also helps them understand the basics of programming and problem-solving in a fun and engaging way. By incorporating superheroes and Hot Wheels, the game appeals to children's natural sense of adventure and competition, making learning a joyful experience.

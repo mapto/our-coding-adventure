@@ -1,0 +1,41 @@
+bartowski/Meta-Llama-3.1-8B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+**Superhero Rescue Mission**
+
+**Objective:** Help the superhero, "Cubetto Crusader," rescue the trapped Hot Wheels cars from the evil villain, "Blocky Bandit."
+
+**Scenario Setup:**
+
+1. Create a simple cityscape using blocks or other materials, with a few Hot Wheels cars trapped in a "jail" area.
+2. Place the Cubetto toy at the starting point, near the cityscape.
+3. Explain to the children that Cubetto Crusader must navigate through the city to rescue the trapped Hot Wheels cars.
+
+**Challenge:**
+
+The Blocky Bandit has set up obstacles to stop Cubetto Crusader from reaching the trapped Hot Wheels cars. The children must use Cubetto to overcome these obstacles and rescue the cars.
+
+**Three Command Blocks:**
+
+1. **Forward**: Move Cubetto one step forward.
+2. **Turn Left**: Turn Cubetto 90 degrees to the left.
+3. **Turn Right**: Turn Cubetto 90 degrees to the right.
+
+**Obstacles:**
+
+1. **Blocky Bandit's Roadblock**: A row of blocks that Cubetto must navigate around.
+2. **Tunnel**: A narrow tunnel that Cubetto must fit through.
+3. **Ramp**: A steep ramp that Cubetto must climb to reach the trapped Hot Wheels cars.
+
+**Rescue Mission:**
+
+The children must use the three command blocks to guide Cubetto through the city, overcoming the obstacles and reaching the trapped Hot Wheels cars. They can experiment with different sequences of commands to find the most efficient path.
+
+**Tips and Variations:**
+
+* Encourage children to work together to solve the challenge.
+* Add more obstacles or challenges as the children progress.
+* Use different Hot Wheels cars with unique abilities (e.g., a car that can jump over obstacles).
+* Create a time limit or a scoring system to make the challenge more engaging.
+
+This scenario encourages problem-solving, critical thinking, and creativity while introducing preschool children to the basics of programming with Cubetto.

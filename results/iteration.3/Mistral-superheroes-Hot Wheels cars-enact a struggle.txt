@@ -1,0 +1,36 @@
+bartowski/Mistral-7B-Instruct-v0.3-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+ Title: Cubetto's Superhero Car Chase
+
+Setting: A city made with Hot Wheels tracks and buildings, where Cubetto is a superhero named "Cubetto Man" and his arch-nemesis, "Villain Van," is controlled by another player.
+
+Objective: Cubetto Man must navigate through the city, avoiding obstacles and traps set by Villain Van, to reach the Super Power Station and recharge his powers.
+
+Materials:
+1. Cubetto and its blocks
+2. Hot Wheels tracks and buildings
+3. A Super Power Station (a small, distinctive building or structure)
+4. Obstacles and traps (created using Hot Wheels tracks and accessories)
+5. Two Hot Wheels cars (one for Cubetto Man and one for Villain Van)
+
+Instructions:
+
+1. Set up the Hot Wheels city with the Super Power Station at one end and various obstacles and traps scattered throughout.
+
+2. Place Cubetto at the starting point, facing the Super Power Station.
+
+3. Explain to the children that Cubetto Man is on a mission to recharge his powers at the Super Power Station but Villain Van is in his way.
+
+4. Introduce the three command blocks:
+   - Forward: Cubetto moves forward one step.
+   - Turn Left: Cubetto turns 90 degrees to the left.
+   - Turn Right: Cubetto turns 90 degrees to the right.
+
+5. Instruct the children to use these blocks to guide Cubetto Man through the city, avoiding obstacles and traps, while trying to catch up with Villain Van.
+
+6. The other player controls Villain Van, making it chase Cubetto Man or set traps to slow him down.
+
+7. Encourage the children to think critically and strategically, using the command blocks to help Cubetto Man reach the Super Power Station before Villain Van.
+
+8. Discuss the importance of problem-solving, teamwork, and pers

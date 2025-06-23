@@ -1,0 +1,37 @@
+Meta-Llama-3.1-8B-Instruct-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+**Treasure Hunt Adventure with Cubetto**
+
+**Objective:** Help the pirate find the hidden treasure using Cubetto commands.
+
+**Materials:**
+
+* Cubetto programming toy
+* Lego pirate figures
+* A treasure chest (or a small box)
+* A simple obstacle course (e.g., a few blocks or cones)
+
+**Instructions:**
+
+1. Set up the obstacle course and place the treasure chest at the end.
+2. Give each child a Lego pirate figure and a Cubetto.
+3. Explain that the pirate needs to find the treasure using Cubetto commands.
+4. Demonstrate how to use the three Cubetto command blocks: forward, turn left, and turn right.
+5. Challenge the children to create a sequence of commands to help the pirate navigate through the obstacle course and reach the treasure.
+6. Encourage them to experiment and try different paths.
+7. As they play, ask questions like: "What would happen if the pirate turns left?" or "How can the pirate avoid the obstacle?"
+
+**Variations:**
+
+* Add a "map" with a simple grid to help the children plan their route.
+* Introduce a "storm" obstacle that requires the pirate to use a specific command to avoid it.
+* Have the children work in pairs or small groups to create a more complex treasure hunt.
+
+**Assessment:**
+
+* Observe the children's problem-solving skills and ability to think critically.
+* Ask questions to assess their understanding of the Cubetto commands and the pirate's journey.
+* Evaluate their ability to create a sequence of commands to achieve a goal.
+
+This game is designed to be fun and engaging while introducing preschool children to the basics of programming and problem-solving using Cubetto.

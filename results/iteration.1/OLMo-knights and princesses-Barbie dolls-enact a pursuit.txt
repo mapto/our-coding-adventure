@@ -1,0 +1,34 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit.
+
+A:
+**Title: The Quest of the Royal Cubetto**
+
+**Scenario Setup:**
+
+* **Characters:**
+  - **The Brave Knight:** A Barbie doll dressed in a shining armor, representing the valiant knight on a mission.
+  - **The Princess:** Another Barbie doll adorned in a flowing gown, symbolizing the princess in distress.
+  - **The Evil Sorcerer:** A small, plush toy dragon or another villainous character, embodying the obstacle in the knight's path.
+  - **The Wise Wizard:** A third Barbie doll dressed in a wizard's robe, offering guidance and magic.
+  - **The Kingdom:** A setup using Cubetto blocks to create a castle or fortress where the princess is held captive.
+
+* **Objective:**
+  The knight must navigate through a maze (constructed with Cubetto blocks) to reach the princess, who is trapped in the castle. The evil sorcerer (the plush toy) is guarding the entrance, and the wise wizard provides clues and magic (represented by specific Cubetto commands) to help the knight overcome obstacles.
+
+* **Gameplay:**
+  1. **The Setup:**
+     - Build the kingdom with Cubetto blocks, creating a maze that the knight must navigate.
+     - Place the princess in a designated spot within the castle.
+     - Position the evil sorcerer at the entrance of the castle.
+     - Set up the wise wizard near the beginning of the maze, ready to offer guidance.
+
+  2. **The Quest Begins:**
+     - The knight starts at the beginning of the maze.
+     - The wise wizard gives the first command (using simple Cubetto instructions) to move forward or turn.
+     - The knight must follow the commands to navigate through the maze, avoiding obstacles (represented by blocks or toys) and reaching the princess.
+
+  3. **The Sorcerer's Challenge:**
+     - The evil sorcerer blocks the path with a specific pattern or obstacle that the knight must overcome.
+     - The wise wizard provides a magical command (another Cubetto instruction) to bypass this challenge, such as moving around or using a secret passage.
+
+  4. **Rescuing the Princess:**

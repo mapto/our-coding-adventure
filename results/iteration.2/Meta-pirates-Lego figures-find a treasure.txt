@@ -1,0 +1,40 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure.
+
+A:
+**Treasure Hunt on the Pirate Island**
+
+**Age group:** Pre-school children (3-5 years)
+
+**Objective:** Help the pirates find the hidden treasure using Cubetto's tangible programming blocks.
+
+**Storyline:** Captain Blackbeak and his trusty crew have been searching for the legendary Golden Coin on the Pirate Island. The coin is hidden deep within the island, and the only way to find it is by solving a series of challenges using Cubetto's programming blocks.
+
+**Setup:**
+
+1. Create a pirate-themed island using a large piece of cardboard or a playmat.
+2. Place Lego pirate figures and other pirate-themed objects around the island to create a fun and immersive environment.
+3. Hide the Golden Coin in a designated area, making sure it's not too easy or too hard to find.
+4. Prepare a set of Cubetto's programming blocks, including the following:
+	* Move blocks (forward, backward, left, right)
+	* Turn blocks (90°, 180°)
+	* Wait blocks (wait for a certain number of steps)
+	* Sensor blocks (detect obstacles or colors)
+5. Introduce the concept of programming to the children, explaining that they will use Cubetto to help the pirates navigate the island and find the treasure.
+
+**Challenge 1: Crossing the River**
+
+* Place a Lego pirate figure at the starting point of the island.
+* Create a "river" using a blue piece of cardboard or a blue playmat.
+* Challenge the children to use Cubetto to program the pirate to cross the river without getting wet.
+* Encourage them to experiment with different programming sequences to achieve the goal.
+
+**Challenge 2: Avoiding the Obstacles**
+
+* Place Lego obstacles (e.g., rocks, trees) around the island to create a challenging terrain.
+* Challenge the children to use Cubetto to program the pirate to avoid the obstacles and reach the next destination.
+* Encourage them to think critically about the programming sequence and make adjustments as needed.
+
+**Challenge 3: Finding the Treasure**
+
+* Place the Golden Coin in a designated area, making sure it's not too easy or too hard to find.
+*

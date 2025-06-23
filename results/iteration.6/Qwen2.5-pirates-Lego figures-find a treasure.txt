@@ -1,0 +1,29 @@
+Qwen2.5-7B-Instruct-GGUF	Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be less than 2000 characters excluding spaces.
+
+-------------------
+Sure! Here’s a fun and engaging game for preschool children using the Cubetto tangible programming toy, themed around pirates and treasure hunting. This game will help children learn basic programming concepts while having a blast with Lego figures.
+
+### Pirate Treasure Hunt with Cubetto
+
+**Objective:** Guide Cubetto, the pirate ship, to find the treasure using only three command blocks: forward, turn left, and turn right.
+
+**Materials:**
+- Cubetto toy
+- Programming board
+- Command blocks (forward, turn left, turn right)
+- Lego figures (pirates, treasure chest, obstacles)
+- A large play mat or a flat surface
+- Treasure map (optional)
+
+**Setup:**
+1. Place Cubetto on the play mat.
+2. Arrange Lego figures to create a pirate-themed scene with obstacles, a starting point, and a treasure chest.
+3. Place the treasure map (if using) near the play area for reference.
+
+**Gameplay:**
+1. **Introduction:** Explain to the children that they are going to be pirates on a quest to find treasure. Cubetto is their ship, and they need to use the command blocks to navigate through the island and find the treasure.
+2. **Exploration:** Show the children the three command blocks: forward, turn left, and turn right. Explain what each block does.
+3. **First Clue:** Give the children a simple clue or a map that shows the first step. For example, "Move forward three steps, then turn right."
+4. **Programming:** Have the children place the command blocks in the correct order to follow the clue. For example, they would place three forward blocks, then one turn right block.
+5. **Execution:** Place Cubetto on the play mat and have the children guide it by placing the blocks in the correct order. Encourage them to say the commands out loud as they place each block.
+6. **Obstacles:** Introduce obstacles like rocks or other Lego figures that Cubetto needs to avoid. The children can use the turn

@@ -1,0 +1,38 @@
+Qwen2.5-7B-Instruct-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about pirates, involve Lego figures and children should use Cubetto to find a treasure. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+Certainly! Here’s a fun and engaging game idea for preschool children using the Cubetto tangible programming toy, themed around pirates and treasure hunting:
+
+---
+
+**Pirate Treasure Hunt Adventure**
+
+**Objective:** Guide Cubetto, the friendly wooden robot, through a pirate-themed map to find the hidden treasure using only three command blocks: forward, turn left, and turn right.
+
+**Materials:**
+- Cubetto
+- Programming board
+- Command blocks (forward, turn left, turn right)
+- Lego figures (pirates, treasure chest, map pieces)
+- A large play mat or a flat surface
+
+**Setup:**
+1. Create a pirate-themed map using Lego figures and other materials. Place a treasure chest at the end of the map.
+2. Scatter Lego pirates and other obstacles along the path to the treasure.
+3. Place Cubetto at the starting point of the map.
+
+**Gameplay:**
+1. Divide the children into small groups and give each group a set of command blocks.
+2. Explain that Cubetto is a brave pirate captain on a quest to find the treasure.
+3. Each group must program Cubetto to navigate through the map and find the treasure using only the three command blocks.
+4. Encourage the children to work together, discuss their strategies, and test different combinations of commands.
+5. Once a group successfully guides Cubetto to the treasure, they can place a Lego pirate figure on the treasure chest to celebrate their success.
+6. Rotate the groups and repeat the game, allowing each group to have a turn as the captain of Cubetto.
+
+**Educational Benefits:**
+- **Logical Thinking:** Children will practice problem-solving and logical reasoning as they plan Cubetto's path.
+- **Spatial Awareness:** They will develop an understanding of direction and space as they navigate the map.
+- **Collaboration:** Working in teams fosters communication and teamwork skills.
+
+This game not only entertains but also enhances cognitive and social skills in a fun, pirate-themed adventure!

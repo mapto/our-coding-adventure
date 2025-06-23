@@ -1,0 +1,40 @@
+gemma-2-9b-it-GGUF
+Suggest to a teacher a game with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right. The description should be about half a page long.
+
+-------------------
+## The Knight's Quest: A Cubetto Adventure
+
+This game combines storytelling, imaginative play, and basic programming concepts using Cubetto. It's perfect for preschoolers who are just starting to grasp the idea of giving instructions and seeing them come to life.
+
+**Story:**
+
+Once upon a time, a brave knight set out on a quest to rescue a beautiful princess from a fearsome dragon! The princess is trapped in a tall tower, guarded by the dragon. The knight must navigate a maze to reach the tower and save the princess.
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto command blocks (forward, turn left, turn right)
+* Barbie dolls: a knight and a princess
+* A large play mat or open space
+* Optional: building blocks, pillows, or other objects to create obstacles and a "maze"
+
+**Instructions:**
+
+1. **Set the Scene:** Create a "maze" on the play mat using building blocks, pillows, or other objects. Place the princess doll at the top of the "maze" and the dragon doll somewhere nearby.
+
+2. **Introduce the Knight:** Tell the children about the brave knight who is going to rescue the princess. Show them the knight doll and explain that they will be using Cubetto to guide the knight through the maze.
+
+3. **Programming the Knight:**
+
+* **Forward:** Explain that the "forward" block will make Cubetto move forward one step.
+* **Turn Left/Right:** Explain that the "turn left" and "turn right" blocks will make Cubetto change direction.
+
+* **Challenge:** Have the children work together to program Cubetto to navigate the maze and reach the princess. Encourage them to experiment with different combinations of command blocks.
+
+4. **The Rescue:** Once Cubetto reaches the princess, have the children celebrate the knight's success!
+
+**Variations:**
+
+* **Obstacle Course:** Add more obstacles to the maze to make it more challenging.
+* **Dragon Chase:** Have the children program Cubetto to avoid the dragon by turning left or right when it gets close.
+* **Multiple

@@ -1,0 +1,30 @@
+bartowski/OLMo-2-1124-7B-Instruct-GGUF	Prompt: Suggest a one-page scenario to play with the Cubetto tangible programming toy for preschool children. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit. Only three Cubetto command blocks should be used: forward, turn left and turn right.
+
+-------------------
+**Title: The Royal Chase**
+
+**Setting:**
+In the enchanted kingdom of Araminta, a brave knight named Sir Lancelot and his trusty steed, Cubetto, are tasked with a crucial mission: to rescue Princess Isabella from the clutches of the wicked sorcerer, Malakar. The princess is held captive in a tower at the far end of the enchanted forest. To reach her, Sir Lancelot must navigate through a maze of trees, over a babbling brook, and past a sleeping dragon.
+
+**Characters:**
+- **Sir Lancelot:** The brave knight, controlled by the Cubetto robot.
+- **Cubetto:** The knight's loyal steed, also the tangible programming toy.
+- **Princess Isabella:** The damsel in distress, represented by a Barbie doll placed at the end of the maze.
+- **Malakar:** The villain, not physically present but hinted at by obstacles in the maze.
+- **The Dragon:** A sleeping obstacle, represented by a soft toy dragon placed in Sir Lancelot's path.
+- **The Forest:** Made of green construction paper trees, creating a maze for Sir Lancelot to navigate.
+- **The Babbling Brook:** A small, safe stream made of blue paper, representing a challenge to cross.
+
+**Objective:**
+Sir Lancelot must use his wits and Cubetto's commands to navigate through the forest, cross the brook, and reach Princess Isabella without waking the dragon.
+
+**Instructions:**
+
+1. **Preparation:**
+   - Set up the forest maze on the floor using green construction paper trees.
+   - Create the babbling brook with blue paper and safe materials to ensure it's harmless.
+   - Place the sleeping dragon toy at a strategic point in the maze.
+   - Position the Barbie doll (Princess Isabella) at the end of the maze.
+
+2. **Starting Point:**
+   - Begin the scenario at the entrance of the forest, where Sir Lancelot and Cubetto are ready for their quest.

@@ -1,0 +1,27 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy. It should be about knights and princesses, involve Barbie dolls and children should use Cubetto to enact a pursuit.
+
+A:
+ Title: The Knightly Quest for Princess Barbie
+
+Scenario:
+
+In the magical kingdom of Cubetopia, Princess Barbie has been captured by the wicked Sorcerer Cuberton and taken to his dark castle. The brave knights Sir Cubetto and Lady WiFi have embarked on a quest to rescue her.
+
+The children's mission is to guide Sir Cubetto and Lady WiFi through the kingdom, overcoming obstacles and solving puzzles to reach the castle and save Princess Barbie.
+
+Here's a breakdown of the scenario:
+
+1. Starting Point: The children set up the Cubetto playmat with the castle, the kingdom, and various obstacles like a moat, a dragon, and a maze. The starting point is the royal palace where Sir Cubetto and Lady WiFi begin their quest.
+
+2. Obstacles:
+   - Moat: The children program Cubetto to navigate around the moat using the block programming to make him move forward, turn left, and turn right.
+   - Dragon: The children program Cubetto to avoid the dragon by using the block programming to make him move backward when he reaches the dragon's location.
+   - Maze: The children program Cubetto to navigate through the maze using the block programming to make him turn left and right as needed.
+
+3. Puzzles:
+   - Riddle Gate: The children program Cubetto to collect a riddle block that reveals a clue to open the Riddle Gate. Once the gate is opened, they can continue their journey.
+   - Puzzle Bridge: The children program Cubetto to collect a puzzle block that reveals the pattern to assemble the Puzzle Bridge. Once assembled, they can cross the bridge and continue their journey.
+
+4. Final Challenge: The children program Cubetto to navigate through the castle courtyard and find Princess Barbie's cell. Once they reach the cell, they program Cubetto to solve a final puzzle to free Princess Barbie.
+
+5. Victory: Once Princess Barbie is freed, the children program Cubetto and Lady WiFi to return to the royal palace, completing their quest. They can

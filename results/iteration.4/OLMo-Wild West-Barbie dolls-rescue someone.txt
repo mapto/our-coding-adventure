@@ -1,0 +1,32 @@
+OLMo-2-1124-7B-Instruct-GGUF	Parameters: {'world': 'Wild West', 'objects': 'Barbie dolls', 'task': 'rescue someone'}
+
+-------------------
+**Title:** Wild West Adventure with Cubetto: Rescue Mission
+
+**Objective:**
+Preschool children embark on a thrilling Wild West adventure using the Cubetto tangible programming toy. Their mission is to rescue a beloved Barbie doll, "Daisy," who has been kidnapped by the notorious outlaw gang. Children must navigate Cubetto through a series of challenges, using only three basic commands: forward (F), turn left (L), and turn right (R).
+
+**Setting:**
+The adventure unfolds in a whimsical, scaled-down Wild West town. The town square is the starting point, complete with miniature buildings, a saloon, a sheriff's office, and a jail. A small, toy-like representation of Daisy is trapped inside the jail, guarded by tiny plastic outlaws. The town is surrounded by a wooden fence, and the path to the jail is intricate, requiring strategic thinking.
+
+**Gameplay:**
+
+1. **Starting Point:**
+   - Children begin at the town square, facing forward.
+   - They must use the forward command (F) to move Cubetto out of the square.
+
+2. **First Obstacle:**
+   - After moving forward, Cubetto reaches a fork in the path.
+   - Children must use the turn left (L) command to navigate around the saloon and approach the sheriff's office.
+
+3. **Obtain the Key:**
+   - At the sheriff's office, children find a small key.
+   - They use the forward command (F) to return to the fork and unlock the jail door using the turn right (R) command to align with the jail entrance.
+
+4. **Rescue Daisy:**
+   - Once inside the jail, children must carefully maneuver Cubetto to the back where Daisy is held.
+   - They use a combination of forward (F) and turn right (R) commands to reach Daisy.
+
+5. **Escape the Outlaws:**
+   - Upon freeing Daisy, children must lead Cubetto and Daisy back to the town square, avoiding the outlaws patrolling the streets.
+   - They use a series of

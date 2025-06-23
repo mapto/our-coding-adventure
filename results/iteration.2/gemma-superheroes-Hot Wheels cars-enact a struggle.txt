@@ -1,0 +1,41 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle.
+
+A:
+## Superhero Rescue Mission!
+
+**Scenario:**
+
+The city is in danger! A villain (represented by a Hot Wheels car) has stolen a precious artifact (a small toy, like a block or a figurine) and is speeding away!  Our superhero (another Hot Wheels car) needs to catch the villain and save the day!
+
+**Materials:**
+
+* Cubetto robot
+* Cubetto blocks
+* Two Hot Wheels cars (one for the superhero, one for the villain)
+* A small toy representing the stolen artifact
+* A playmat or large sheet of paper to represent the city
+
+**Instructions:**
+
+1. **Set the scene:**  Lay out the playmat and position the "city" with buildings and obstacles. Place the villain's car at one end with the stolen artifact.
+
+2. **Introduce the characters:** Explain to the children that the villain is trying to escape with the artifact and the superhero needs to stop them!
+
+3. **Program the superhero:**  Using Cubetto blocks, guide the children to program the superhero car to:
+
+    * **Move forward:**  Program the superhero to drive towards the villain.
+    * **Turn:**  Program the superhero to turn around obstacles or change direction if needed.
+    * **Pick up the artifact:**  If possible, program the superhero to "pick up" the artifact using a block or a claw attachment (if available).
+
+4. **Play the rescue mission:** Let the children watch as the superhero car follows their program and tries to catch the villain.
+
+5. **Adapt and improvise:** Encourage the children to change the program and try different strategies. Maybe the superhero needs to go faster, or maybe they need to take a different route.
+
+**Variations:**
+
+* **Add more obstacles:** Use blocks or toys to create a more challenging course for the superhero.
+* **Introduce other characters:** Add more Hot Wheels cars to represent other superheroes or villains.
+* **Tell a story:** Encourage the children to create a story around the rescue mission, adding details about the villain's plan and the superhero's heroic actions.
+
+
+This scenario allows children to explore basic programming concepts while engaging in imaginative play. It also encourages problem-solving, creativity, and collaboration.

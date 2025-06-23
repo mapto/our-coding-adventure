@@ -1,0 +1,36 @@
+Q: Suggest a scenario to play with the Cubetto tangible programming toy for pre-school children. It should be about superheroes, involve Hot Wheels cars and children should use Cubetto to enact a struggle.
+
+A:
+Certainly! Here’s a fun and engaging scenario for pre-school children using Cubetto to create a superhero adventure involving Hot Wheels cars:
+
+### Scenario: "The Great Hot Wheels Heist"
+
+#### Objective:
+Children will use Cubetto to program a mission to save the Hot Wheels cars from a villainous robot who has stolen them and hidden them in a secret location.
+
+#### Materials Needed:
+- Cubetto toy
+- Cubetto programming board
+- Cubetto blocks (directional blocks: forward, backward, left, right, and turn)
+- Hot Wheels cars
+- A map or a simple layout of the play area (e.g., a grid or a simple maze)
+- A villainous robot toy (optional)
+
+#### Instructions:
+
+1. **Introduction:**
+   - Introduce the story: "Once upon a time, a villainous robot named Robo-Bad took all the Hot Wheels cars and hid them in a secret location. We need to save them! Cubetto is going to help us find the cars and bring them back to the Hot Wheels city."
+
+2. **Setting Up the Play Area:**
+   - Place the Hot Wheels cars in a secret location on the play area (e.g., a corner or a hidden spot).
+   - Set up Cubetto’s starting point and the map or layout of the play area.
+   - Place Robo-Bad (if using) in a strategic location to add a bit of challenge.
+
+3. **Programming Cubetto:**
+   - Explain to the children that they need to program Cubetto to find the Hot Wheels cars. Show them how to use the directional blocks to move Cubetto forward, backward, left, and right.
+   - Demonstrate a simple program: "Let’s move Cubetto forward to find the cars. We can use the forward block to do this."
+   - Encourage the children to think about the path Cubetto needs to take to find the cars. They can use the map or layout to help them plan.
+
+4. **Executing the Program:**
+   - Have the children take turns programming Cubetto. They can use the programming board to place the blocks in the correct order.
+   - Once the program is set
